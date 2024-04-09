@@ -1,0 +1,1159 @@
+id_client;sexe;date_naissance;enfant_conduite_accompagne;nombre_enfants;revenus;usage_vehicule;type_vehicule;est_rouge;points_perdus;age_vehicule;type_conduite;date_demande;etat_dossier;formule;tarif_devis
+871024631;F;1999-09-25;0;1;125301;Commercial;Sports Car;no;0;7.0;Highly Urban/ Urban;2022-02-25 16:13:38;complet;dev_integral;323.39
+7945239;F;1932-01-28;1;1;50815;Private;Minivan;no;2;1.0;Highly Urban/ Urban;2022-05-24 21:07:34;complet;dev_express;257.56
+713692930;F;1978-09-15;0;2;21204;Private;Pickup;no;0;4.0;z_Highly Rural/ Rural;2022-01-24 08:17:21;complet;dev_express;250.68
+588888550;F;2021-02-17;0;0;0;Private;z_SUV;no;3;5.0;Highly Urban/ Urban;2022-04-20 03:46:00;complet;dev_integral;300.3
+69165559;M;1956-06-14;0;0;;Commercial;Panel Truck;no;2;12.0;Highly Urban/ Urban;2022-03-23 01:32:40;complet;dev_vip;648.13
+573751437;F;1992-04-11;0;1;79606;Private;z_SUV;no;2;15.0;z_Highly Rural/ Rural;2022-03-23 22:20:50;complet;dev_premium;459.83
+294816298;F;1941-03-18;2;2;130540;Commercial;Minivan;no;0;9.0;z_Highly Rural/ Rural;2022-03-13 01:10:59;complet;dev_express;261.28
+686791659;M;1956-03-06;0;0;51278;Private;z_SUV;no;1;10.0;Highly Urban/ Urban;2022-03-09 03:43:53;complet;dev_premium;343.17
+866093378;M;1956-02-18;0;0;115044;Private;Minivan;no;0;14.0;Highly Urban/ Urban;2022-01-29 10:17:49;complet;dev_premium;389.24
+401200262;F;1974-03-07;0;0;;Commercial;Panel Truck;yes;1;10.0;Highly Urban/ Urban;2022-03-26 07:37:33;complet;dev_integral;310.66
+926073051;F;1967-02-13;1;2;24060;Private;Minivan;no;0;10.0;Highly Urban/ Urban;2022-05-26 05:51:37;complet;dev_express;261.6
+45830738;M;2017-05-14;0;4;20822;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-27 09:33:29;complet;dev_premium;380.99
+429992959;F;1950-12-20;0;0;74426;Private;z_SUV;no;0;18.0;Highly Urban/ Urban;2022-05-08 13:32:05;complet;dev_express;251.44
+46606719;M;2017-07-26;0;0;0;Commercial;Van;no;5;6.0;z_Highly Rural/ Rural;2022-05-02 08:44:46;complet;dev_integral;307.66
+389315422;M;1945-10-07;0;1;38042;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-04-15 13:09:59;complet;dev_integral;302.89
+184578161;M;1938-02-12;0;0;45787;Private;Minivan;no;0;13.0;Highly Urban/ Urban;2022-05-11 02:24:06;complet;dev_express;279.3
+765577228;F;1973-03-21;0;0;108152;Private;z_SUV;no;0;15.0;Highly Urban/ Urban;2022-04-12 01:20:55;complet;dev_integral;321.99
+106556153;F;1936-02-01;0;0;53244;Commercial;Van;yes;1;8.0;Highly Urban/ Urban;2022-03-04 09:15:11;complet;dev_express;278.63
+351243985;F;1955-04-04;0;0;76954;Private;Minivan;yes;0;11.0;Highly Urban/ Urban;2022-02-05 17:39:22;complet;dev_express;271.83
+243016778;F;1940-05-23;0;0;43290;Private;z_SUV;no;0;10.0;Highly Urban/ Urban;2022-04-25 14:43:44;complet;dev_integral;287.68
+411375726;M;1988-07-20;0;1;67278;Private;Minivan;no;0;16.0;z_Highly Rural/ Rural;2022-03-20 03:44:21;complet;dev_express;270.39
+747049542;M;1931-12-02;1;3;29431;Private;Minivan;no;1;;Highly Urban/ Urban;2022-03-27 09:22:22;complet;dev_premium;376.14
+582086109;F;2000-02-13;0;0;;Commercial;Van;yes;0;7.0;Highly Urban/ Urban;2022-05-16 02:39:00;complet;dev_premium;372.97
+93412915;F;1941-04-24;0;3;48184;Commercial;Sports Car;no;5;1.0;Highly Urban/ Urban;2022-02-06 07:52:56;complet;dev_premium;455.67
+461573915;M;2004-12-16;0;0;22059;Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;2022-04-27 15:06:48;complet;dev_express;260.6
+931284804;M;1957-08-18;0;0;;Private;Minivan;yes;1;;z_Highly Rural/ Rural;2022-04-13 00:52:49;complet;dev_express;257.29
+384628643;F;1998-12-06;0;0;49780;Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;2022-03-22 13:32:35;complet;dev_integral;285.83
+922808394;F;1978-10-31;0;0;76443;Private;z_SUV;no;5;;Highly Urban/ Urban;2022-04-22 03:39:47;complet;dev_integral;282.37
+934739805;F;1969-02-06;0;0;59148;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-03-23 22:44:16;complet;dev_vip;871.83
+290532681;F;2006-09-16;0;0;108701;Private;z_SUV;no;0;17.0;Highly Urban/ Urban;2022-02-12 20:23:14;complet;dev_premium;351.23
+334788395;F;1974-08-31;0;2;36947;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-14 07:11:19;complet;dev_express;257.94
+645904097;M;1984-08-20;0;2;27581;Commercial;Minivan;yes;6;5.0;z_Highly Rural/ Rural;2022-04-09 11:49:01;complet;dev_integral;320.63
+160311489;F;1957-07-27;0;0;116043;Private;z_SUV;no;3;9.0;Highly Urban/ Urban;2022-03-23 06:12:09;complet;dev_express;257.69
+944419063;M;2018-02-27;0;0;32159;Private;z_SUV;no;2;6.0;z_Highly Rural/ Rural;2022-02-04 17:14:57;complet;dev_premium;406.26
+594467420;M;1978-05-14;1;2;74022;Private;Sports Car;no;0;12.0;Highly Urban/ Urban;2022-02-05 18:50:01;complet;dev_express;269.0
+999482663;F;1954-09-11;0;0;22633;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-02-08 09:59:30;complet;dev_integral;302.56
+125992610;F;1961-09-16;0;0;33713;Commercial;Sports Car;no;0;15.0;Highly Urban/ Urban;2022-02-06 22:30:39;complet;dev_express;264.33
+294957776;F;2016-04-22;0;3;94325;Private;z_SUV;no;2;14.0;Highly Urban/ Urban;2022-02-09 14:28:28;complet;dev_integral;284.9
+234108296;F;1967-04-29;0;0;157237;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-05-26 21:39:06;complet;dev_integral;280.03
+858966351;M;1988-06-21;0;0;51737;Private;z_SUV;no;1;11.0;z_Highly Rural/ Rural;2022-03-04 15:36:05;complet;dev_premium;416.72
+737298009;F;2004-02-17;2;2;;Private;Sports Car;no;0;10.0;Highly Urban/ Urban;2022-05-31 13:11:08;complet;dev_express;260.27
+716232766;F;1937-06-12;0;4;4478;Private;z_SUV;no;5;8.0;Highly Urban/ Urban;2022-04-30 23:20:28;complet;dev_express;257.99
+137443614;M;1963-12-06;0;1;5952;Commercial;Pickup;yes;0;10.0;Highly Urban/ Urban;2022-03-20 04:00:15;complet;dev_express;260.17
+417088161;F;1965-03-15;1;2;52950;Private;Pickup;yes;0;;Highly Urban/ Urban;2022-04-02 11:25:10;complet;dev_premium;417.16
+976068152;M;1970-11-18;0;0;75432;Private;z_SUV;no;0;13.0;Highly Urban/ Urban;2022-01-02 20:05:48;complet;dev_integral;324.91
+786289554;F;1957-03-17;0;0;97103;Private;z_SUV;no;4;15.0;Highly Urban/ Urban;2022-02-24 21:52:11;complet;dev_express;262.87
+16380140;M;1946-03-10;0;1;0;Private;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-04-05 02:47:59;complet;dev_express;278.71
+443540965;F;1981-06-22;0;0;140766;Commercial;Panel Truck;yes;1;13.0;Highly Urban/ Urban;2022-02-21 11:50:32;complet;dev_integral;309.66
+380033719;M;1945-09-30;0;0;80997;Commercial;Van;yes;0;7.0;Highly Urban/ Urban;2022-03-21 00:37:40;complet;dev_integral;281.99
+490636474;F;1984-05-10;1;2;54159;Private;Van;yes;1;1.0;z_Highly Rural/ Rural;2022-04-03 12:30:15;complet;dev_integral;295.63
+220536762;F;1998-01-24;0;0;28341;Commercial;Pickup;yes;7;1.0;Highly Urban/ Urban;2022-03-28 23:57:50;complet;dev_integral;311.33
+466727453;F;1974-06-04;0;3;46453;Private;Minivan;no;1;5.0;Highly Urban/ Urban;2022-03-21 07:59:29;complet;dev_express;272.78
+670054779;M;2003-09-19;0;0;100822;Private;Minivan;no;0;7.0;Highly Urban/ Urban;2022-05-23 09:33:05;complet;dev_express;283.84
+303541974;F;1975-08-24;0;0;57063;Private;Sports Car;no;0;19.0;Highly Urban/ Urban;2022-05-03 20:20:41;complet;dev_express;278.62
+522831508;F;2016-12-26;0;0;76150;Commercial;Minivan;no;5;8.0;z_Highly Rural/ Rural;2022-04-11 14:51:15;complet;dev_express;266.25
+185382071;M;1974-01-05;0;0;77012;Private;Van;no;0;13.0;Highly Urban/ Urban;2022-01-05 09:29:53;complet;dev_premium;374.18
+296809989;F;1967-03-26;0;1;45105;Commercial;Van;yes;4;9.0;Highly Urban/ Urban;2022-05-14 13:46:00;complet;dev_integral;293.0
+176300530;M;1990-04-02;0;0;69625;Private;z_SUV;no;2;12.0;Highly Urban/ Urban;2022-04-20 10:04:08;complet;dev_express;255.32
+105813423;F;1950-07-20;1;3;30043;Private;Van;yes;0;1.0;Highly Urban/ Urban;2022-01-22 11:01:49;complet;dev_express;267.14
+305504579;F;1992-06-27;1;2;34116;Private;Sports Car;no;1;7.0;Highly Urban/ Urban;2022-04-26 16:17:11;complet;dev_express;254.03
+726219892;F;1950-12-05;0;0;86596;Private;Minivan;no;0;16.0;Highly Urban/ Urban;2022-03-23 15:45:03;complet;dev_integral;298.3
+790543950;F;1968-09-19;0;0;40760;Private;Pickup;no;0;8.0;Highly Urban/ Urban;2022-04-27 03:37:13;complet;dev_express;259.8
+317314544;F;1952-09-21;0;2;68493;Commercial;Van;no;0;5.0;Highly Urban/ Urban;2022-05-24 02:44:42;complet;dev_integral;289.65
+992004739;F;1942-12-30;0;1;25544;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-05-09 23:43:14;complet;dev_express;252.04
+845009116;F;2019-05-24;0;0;16536;Private;z_SUV;no;0;6.0;Highly Urban/ Urban;2022-04-22 08:38:06;complet;dev_integral;284.73
+143078256;M;1972-08-20;0;0;65298;Private;z_SUV;no;5;1.0;Highly Urban/ Urban;2022-05-17 07:36:25;complet;dev_express;253.32
+437006760;M;1954-04-27;0;0;83569;Private;Pickup;no;0;7.0;Highly Urban/ Urban;2022-05-01 22:37:09;complet;dev_express;266.0
+788829442;M;1972-05-05;0;0;5420;Private;Minivan;no;3;5.0;z_Highly Rural/ Rural;2022-05-29 10:50:34;complet;dev_express;258.13
+665180201;M;1950-12-31;0;1;23109;Private;z_SUV;yes;2;13.0;Highly Urban/ Urban;2022-04-04 09:48:20;complet;dev_express;259.15
+554270628;F;1999-01-31;0;0;85731;Commercial;Pickup;no;1;3.0;Highly Urban/ Urban;2022-01-27 21:31:36;complet;dev_integral;303.74
+323105809;F;2019-10-30;0;0;77267;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-01-13 03:29:34;complet;dev_integral;304.33
+316861921;M;1988-11-15;0;0;198600;Private;z_SUV;no;2;12.0;Highly Urban/ Urban;2022-01-08 11:18:24;complet;dev_express;272.22
+279632339;M;2013-12-06;0;0;94082;Private;Minivan;yes;2;9.0;Highly Urban/ Urban;2022-04-05 09:02:25;complet;dev_integral;289.83
+954212606;F;1943-02-23;0;2;77222;Private;Minivan;no;2;9.0;z_Highly Rural/ Rural;2022-02-14 02:00:18;complet;dev_premium;481.13
+1900527;M;1944-08-11;0;0;48866;Private;Pickup;no;0;8.0;Highly Urban/ Urban;2022-01-14 13:12:49;complet;dev_express;250.31
+958601721;F;1993-11-20;0;0;114507;Private;z_SUV;no;1;18.0;Highly Urban/ Urban;2022-04-20 02:38:57;complet;dev_integral;312.28
+827178489;F;1950-12-02;0;0;70682;Commercial;Minivan;no;5;1.0;Highly Urban/ Urban;2022-05-10 13:40:32;complet;dev_express;270.62
+194669970;M;1971-08-09;0;0;40862;Commercial;Panel Truck;no;4;11.0;Highly Urban/ Urban;2022-01-24 17:35:29;complet;dev_premium;387.55
+640048389;F;1970-11-25;0;0;47625;Private;Minivan;no;4;6.0;Highly Urban/ Urban;2022-02-01 04:48:31;complet;dev_express;250.56
+606191446;M;1962-08-21;0;0;113845;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-04-20 07:29:52;complet;dev_premium;365.92
+664499270;M;1940-04-26;0;0;5109;Private;Sports Car;no;0;3.0;z_Highly Rural/ Rural;2022-01-02 10:07:51;complet;dev_express;262.36
+642975749;M;1959-10-13;0;0;102262;Commercial;Van;yes;0;8.0;z_Highly Rural/ Rural;2022-02-18 08:51:16;complet;dev_express;277.09
+542062164;F;1959-07-04;0;1;39584;Commercial;z_SUV;no;0;4.0;Highly Urban/ Urban;2022-04-27 19:14:40;complet;dev_express;259.21
+270119970;M;1959-12-11;0;0;13753;Private;Sports Car;no;1;;z_Highly Rural/ Rural;2022-05-09 03:37:15;complet;dev_express;250.69
+752309500;M;1961-11-27;0;0;57134;Commercial;Pickup;yes;2;8.0;Highly Urban/ Urban;2022-01-14 21:13:17;complet;dev_express;283.5
+296960793;M;1982-01-29;0;0;49838;Private;Minivan;yes;0;9.0;Highly Urban/ Urban;2022-03-30 13:20:35;complet;dev_express;263.27
+377628766;M;1970-05-16;0;0;;Private;Minivan;no;0;17.0;Highly Urban/ Urban;2022-01-25 00:58:49;complet;dev_premium;467.09
+109627178;F;2001-04-24;1;2;22938;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-05-28 07:13:31;complet;dev_express;256.57
+314006147;M;1974-03-16;0;0;47417;Private;Minivan;no;0;13.0;Highly Urban/ Urban;2022-02-12 08:10:42;complet;dev_premium;546.4
+329152754;M;1965-11-23;0;2;40180;Private;Sports Car;no;0;2.0;z_Highly Rural/ Rural;2022-01-11 16:57:31;complet;dev_integral;281.17
+251851062;M;1943-08-13;0;0;55258;Commercial;Minivan;no;3;1.0;Highly Urban/ Urban;2022-04-15 05:20:26;complet;dev_express;268.99
+938303236;F;2012-08-22;0;1;24178;Private;Minivan;no;1;1.0;Highly Urban/ Urban;2022-03-28 10:41:36;complet;dev_premium;363.96
+134426064;F;2018-07-01;0;0;81940;Private;Sports Car;no;6;1.0;Highly Urban/ Urban;2022-02-26 21:26:35;complet;dev_premium;466.36
+448101140;M;1961-08-28;0;0;51624;Private;Van;yes;0;1.0;Highly Urban/ Urban;2022-01-17 08:39:03;complet;dev_express;268.35
+809433095;F;1953-11-27;0;0;61666;Private;Pickup;no;4;11.0;Highly Urban/ Urban;2022-04-16 00:13:11;complet;dev_integral;289.43
+943460621;F;1972-02-05;0;0;37721;Commercial;Pickup;yes;1;5.0;z_Highly Rural/ Rural;2022-01-12 03:39:07;complet;dev_integral;300.42
+426770568;M;1962-01-31;0;0;32265;Private;Minivan;no;7;1.0;Highly Urban/ Urban;2022-03-23 01:48:58;complet;dev_express;269.18
+877092530;F;1987-07-24;1;3;57925;Private;Minivan;yes;0;6.0;Highly Urban/ Urban;2022-04-17 15:27:11;complet;dev_integral;289.01
+300696853;M;1981-03-11;0;2;65901;Private;Van;yes;1;8.0;Highly Urban/ Urban;2022-05-05 04:13:46;complet;dev_integral;336.96
+819681380;M;2004-11-01;0;0;64617;Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-02-28 07:30:01;complet;dev_integral;326.68
+915517588;M;1957-02-02;0;2;10758;Commercial;Pickup;no;2;12.0;Highly Urban/ Urban;2022-02-12 17:39:26;complet;dev_integral;311.52
+131312301;F;2000-01-07;0;1;58184;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-01-07 19:37:36;complet;dev_integral;316.17
+861285967;M;1971-02-14;0;0;122934;Private;Minivan;no;6;11.0;Highly Urban/ Urban;2022-01-07 13:02:23;complet;dev_integral;302.17
+918559086;M;2013-01-31;0;0;210811;Commercial;Panel Truck;yes;4;17.0;Highly Urban/ Urban;2022-01-12 00:08:50;complet;dev_express;280.21
+64779757;M;1962-07-24;0;0;73056;Private;Minivan;yes;1;12.0;Highly Urban/ Urban;2022-05-24 14:39:09;complet;dev_premium;446.55
+281256236;M;1999-07-04;0;2;;Commercial;Panel Truck;yes;0;14.0;Highly Urban/ Urban;2022-03-25 12:49:02;complet;dev_integral;296.83
+528698470;F;1951-10-31;1;1;19237;Private;Minivan;no;0;5.0;Highly Urban/ Urban;2022-01-02 00:52:24;complet;dev_integral;338.3
+643171611;M;1983-04-24;0;3;69483;Commercial;Minivan;yes;1;12.0;z_Highly Rural/ Rural;2022-03-01 04:35:43;complet;dev_integral;318.54
+430670098;F;1965-09-25;0;2;132463;Private;Minivan;yes;5;11.0;Highly Urban/ Urban;2022-01-28 11:20:20;complet;dev_express;268.71
+64308498;M;1932-05-18;0;0;13692;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-04-29 08:01:10;complet;dev_premium;368.88
+937660052;M;1970-01-14;0;0;71263;Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-01-20 00:10:54;complet;dev_integral;283.7
+994894155;M;1968-06-18;1;1;109631;Commercial;Minivan;no;0;12.0;Highly Urban/ Urban;2022-05-06 14:07:50;complet;dev_express;257.9
+384934557;M;1954-09-13;0;1;6478;Private;z_SUV;no;0;8.0;Highly Urban/ Urban;2022-03-14 17:19:58;complet;dev_express;262.95
+726538399;F;1958-09-14;0;1;48088;Commercial;Minivan;no;2;6.0;Highly Urban/ Urban;2022-03-20 10:44:08;complet;dev_express;284.02
+233104477;F;1967-05-09;0;0;90295;Private;z_SUV;no;0;14.0;Highly Urban/ Urban;2022-01-18 01:43:26;complet;dev_premium;348.22
+91970915;F;1971-11-18;1;2;21873;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-01-23 11:52:51;complet;dev_premium;483.26
+427973991;F;1945-05-04;1;2;44224;Private;Sports Car;no;0;11.0;z_Highly Rural/ Rural;2022-01-07 23:42:14;complet;dev_express;274.9
+44950663;F;1961-11-05;2;3;12284;Private;Pickup;no;0;7.0;Highly Urban/ Urban;2022-01-02 23:14:48;complet;dev_integral;306.52
+299869772;M;2014-11-03;2;2;57379;Commercial;Sports Car;no;2;1.0;Highly Urban/ Urban;2022-05-23 03:25:45;complet;dev_integral;339.12
+693292141;M;2019-10-08;0;0;78796;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-05-29 09:22:38;complet;dev_integral;312.73
+405093473;M;1953-02-06;0;0;0;Private;z_SUV;no;0;13.0;z_Highly Rural/ Rural;2022-02-09 09:54:45;complet;dev_integral;317.97
+141677056;M;1966-05-31;0;1;91898;Private;Minivan;yes;2;11.0;Highly Urban/ Urban;2022-02-17 21:50:53;complet;dev_express;271.71
+111008804;M;1953-03-20;0;0;106944;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-05-06 08:05:25;complet;dev_integral;322.69
+994001102;F;1974-12-18;0;0;66196;Private;Pickup;yes;0;11.0;Highly Urban/ Urban;2022-01-25 10:57:34;complet;dev_integral;332.12
+570595259;F;1994-04-14;0;2;26840;Private;Van;no;4;9.0;Highly Urban/ Urban;2022-01-01 10:42:24;complet;dev_integral;332.07
+700098445;M;1990-03-04;0;0;95076;Private;Minivan;no;0;8.0;Highly Urban/ Urban;2022-04-02 23:05:22;complet;dev_integral;292.8
+778020709;M;1954-08-17;0;0;105299;Private;Minivan;no;2;1.0;Highly Urban/ Urban;2022-04-14 03:03:58;complet;dev_integral;294.25
+470060990;M;2006-10-08;0;0;0;Commercial;Minivan;yes;7;1.0;z_Highly Rural/ Rural;2022-03-07 01:04:39;complet;dev_express;269.87
+892231761;M;2002-04-10;0;0;58453;Commercial;Sports Car;no;1;;Highly Urban/ Urban;2022-04-04 21:37:30;complet;dev_premium;504.98
+134794189;M;1964-07-13;0;0;135116;Private;Minivan;no;1;13.0;Highly Urban/ Urban;2022-04-20 04:58:44;complet;dev_express;254.88
+457695790;F;1953-12-12;0;2;0;Private;Sports Car;no;0;13.0;Highly Urban/ Urban;2022-02-25 11:43:53;complet;dev_express;260.4
+860428575;F;1952-05-23;0;1;36708;Private;Minivan;no;8;9.0;Highly Urban/ Urban;2022-05-28 00:32:29;complet;dev_vip;634.21
+957086884;M;2014-09-22;0;3;5628;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-03-18 05:26:00;complet;dev_express;254.78
+422758152;M;1967-09-24;0;0;27546;Private;Minivan;yes;3;5.0;Highly Urban/ Urban;2022-02-25 19:06:15;complet;dev_express;253.91
+160730761;F;2018-12-05;1;1;49120;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-04-08 14:50:30;complet;dev_integral;282.62
+340247899;F;1932-04-10;0;1;93925;Private;Minivan;no;0;16.0;Highly Urban/ Urban;2022-05-01 13:47:03;complet;dev_integral;305.95
+280963492;M;2011-03-07;0;0;49978;Commercial;Van;yes;2;15.0;Highly Urban/ Urban;2022-03-27 09:47:05;complet;dev_integral;339.55
+578768750;M;1987-07-16;3;3;128895;Commercial;Van;no;4;9.0;Highly Urban/ Urban;2022-05-11 02:14:17;complet;dev_express;269.57
+602256369;M;1971-08-17;0;2;45299;Commercial;z_SUV;no;4;1.0;Highly Urban/ Urban;2022-05-31 03:31:23;complet;dev_express;276.1
+422175609;F;1977-03-31;0;4;;Private;Sports Car;no;6;7.0;Highly Urban/ Urban;2022-04-24 23:44:48;complet;dev_premium;517.22
+339409075;M;1972-05-29;0;0;88632;Commercial;Sports Car;no;2;9.0;Highly Urban/ Urban;2022-03-06 04:31:21;complet;dev_integral;301.41
+576718540;F;1971-08-18;0;0;112804;Private;Minivan;no;0;9.0;Highly Urban/ Urban;2022-02-18 17:27:16;complet;dev_integral;295.29
+366128758;F;2017-04-29;0;2;146202;Private;Pickup;yes;0;12.0;Highly Urban/ Urban;2022-01-05 05:06:12;complet;dev_integral;322.81
+37461363;M;1941-06-20;0;0;46781;Private;z_SUV;no;5;15.0;Highly Urban/ Urban;2022-02-19 05:07:40;complet;dev_premium;544.57
+444126807;M;1936-05-01;0;2;0;Commercial;z_SUV;no;7;;Highly Urban/ Urban;2022-05-21 17:06:44;complet;dev_express;273.72
+37848520;M;1972-07-18;0;0;28299;Private;z_SUV;no;2;11.0;Highly Urban/ Urban;2022-05-13 05:41:36;complet;dev_express;267.85
+736718418;M;1961-11-18;0;0;82130;Private;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-02-20 18:23:57;complet;dev_integral;322.43
+391209907;M;1982-07-19;1;3;24672;Private;z_SUV;no;1;10.0;z_Highly Rural/ Rural;2022-04-16 08:28:15;complet;dev_integral;289.44
+993821847;F;1951-03-22;0;0;94641;Private;z_SUV;no;0;19.0;Highly Urban/ Urban;2022-03-03 11:37:05;complet;dev_integral;283.43
+733443011;F;1947-12-22;0;0;99100;Private;Minivan;no;0;15.0;z_Highly Rural/ Rural;2022-02-26 20:58:16;complet;dev_express;273.35
+463293999;M;1946-04-19;0;0;48263;Private;Minivan;no;0;10.0;Highly Urban/ Urban;2022-02-19 07:35:30;complet;dev_integral;337.72
+865839595;F;1959-08-24;0;0;61407;Private;z_SUV;no;2;5.0;Highly Urban/ Urban;2022-03-05 12:14:43;complet;dev_express;267.54
+676767970;F;1962-09-28;0;2;;Private;Minivan;yes;3;1.0;Highly Urban/ Urban;2022-01-11 23:53:26;complet;dev_express;256.25
+577235524;M;1992-04-07;0;0;31096;Private;Minivan;no;1;4.0;Highly Urban/ Urban;2022-03-25 21:08:25;complet;dev_express;258.99
+325267397;F;1948-06-12;0;2;36324;Commercial;Pickup;yes;0;9.0;z_Highly Rural/ Rural;2022-02-22 18:20:24;complet;dev_integral;299.81
+529201050;M;1941-12-01;2;3;145073;Commercial;Van;yes;0;12.0;Highly Urban/ Urban;2022-01-14 04:38:54;complet;dev_integral;308.1
+621666580;F;1955-07-04;0;1;15234;Private;Sports Car;no;5;4.0;Highly Urban/ Urban;2022-04-08 21:31:19;complet;dev_express;253.44
+250477489;M;1951-04-21;0;0;79941;Private;Pickup;no;0;15.0;Highly Urban/ Urban;2022-04-17 13:11:36;complet;dev_integral;320.46
+302594351;M;1939-11-14;0;0;118666;Commercial;Minivan;yes;0;9.0;z_Highly Rural/ Rural;2022-05-14 20:36:25;complet;dev_integral;329.63
+96173378;M;1958-11-28;0;0;81849;Commercial;z_SUV;no;6;1.0;Highly Urban/ Urban;2022-02-02 00:42:41;complet;dev_integral;284.13
+843851522;M;1954-11-08;1;2;89343;Private;Sports Car;no;0;8.0;Highly Urban/ Urban;2022-05-21 22:35:53;complet;dev_integral;291.56
+352733454;M;1991-06-05;0;0;114636;Private;z_SUV;no;2;12.0;Highly Urban/ Urban;2022-03-09 16:06:41;complet;dev_premium;449.91
+803824722;F;1975-01-16;2;2;155897;Private;Minivan;no;1;12.0;z_Highly Rural/ Rural;2022-02-27 09:10:31;complet;dev_integral;336.05
+108660852;F;1952-08-03;0;2;46751;Private;Minivan;no;0;14.0;Highly Urban/ Urban;2022-04-03 03:15:39;complet;dev_integral;314.85
+791714037;F;1969-03-28;0;0;0;Private;Sports Car;no;1;8.0;z_Highly Rural/ Rural;2022-04-02 11:55:09;complet;dev_express;250.86
+173536416;F;1972-08-28;1;2;0;Private;Minivan;no;1;1.0;Highly Urban/ Urban;2022-04-08 07:47:22;complet;dev_express;255.96
+171256104;F;1932-02-13;0;2;74400;Private;Sports Car;no;0;17.0;Highly Urban/ Urban;2022-05-31 15:46:19;complet;dev_integral;299.88
+733718803;F;2000-03-19;0;2;43036;Commercial;Pickup;yes;0;4.0;Highly Urban/ Urban;2022-05-16 17:40:14;complet;dev_integral;298.12
+324371208;F;1967-10-30;0;0;123969;Commercial;Panel Truck;no;1;;Highly Urban/ Urban;2022-04-22 13:14:59;complet;dev_integral;286.36
+420371060;F;1950-12-11;0;0;28390;Commercial;z_SUV;no;2;11.0;Highly Urban/ Urban;2022-05-30 08:43:49;complet;dev_integral;334.25
+591312483;M;1984-10-14;0;3;77949;Private;Pickup;yes;1;11.0;Highly Urban/ Urban;2022-02-01 00:03:49;complet;dev_express;250.29
+707481422;F;1994-12-16;0;0;8250;Commercial;Minivan;no;2;1.0;Highly Urban/ Urban;2022-05-31 16:23:24;complet;dev_integral;339.87
+828461789;M;1967-07-05;0;0;89968;Commercial;Minivan;no;0;11.0;z_Highly Rural/ Rural;2022-02-16 07:07:53;complet;dev_integral;322.3
+681097688;F;1973-02-22;0;1;64122;Private;Minivan;yes;0;20.0;Highly Urban/ Urban;2022-05-21 22:01:47;complet;dev_integral;329.61
+65858750;M;1970-07-20;0;0;2289;Private;z_SUV;no;2;1.0;Highly Urban/ Urban;2022-04-26 15:07:49;complet;dev_express;265.7
+410548344;M;1947-10-09;0;0;111559;Commercial;Pickup;no;6;;Highly Urban/ Urban;2022-01-14 19:18:02;complet;dev_integral;286.98
+485486006;F;1965-02-10;0;0;0;Commercial;Van;no;0;12.0;Highly Urban/ Urban;2022-02-16 23:39:17;complet;dev_express;252.05
+897417305;M;1993-05-23;0;0;;Private;Sports Car;no;0;16.0;Highly Urban/ Urban;2022-01-01 22:26:24;complet;dev_express;261.98
+726519526;M;1960-05-26;0;3;13337;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-01-14 11:21:21;complet;dev_integral;289.28
+829430160;F;1968-04-30;0;2;45893;Commercial;Van;yes;0;6.0;Highly Urban/ Urban;2022-05-10 08:25:21;complet;dev_premium;539.36
+394231712;F;1941-11-30;0;0;63433;Commercial;Pickup;no;1;;Highly Urban/ Urban;2022-05-02 22:21:52;complet;dev_express;283.26
+182169284;F;1998-12-02;3;3;38430;Commercial;Van;no;1;6.0;z_Highly Rural/ Rural;2022-02-10 04:16:56;complet;dev_express;278.29
+810329333;M;1970-01-01;0;0;172981;Commercial;Panel Truck;yes;0;13.0;z_Highly Rural/ Rural;2022-01-08 11:44:49;complet;dev_integral;305.83
+342803111;F;1938-07-09;0;0;112481;Private;Van;yes;0;10.0;Highly Urban/ Urban;2022-01-12 23:08:43;complet;dev_premium;335.11
+366029224;F;1955-12-18;0;0;4716;Private;Pickup;yes;1;1.0;Highly Urban/ Urban;2022-05-27 23:47:01;complet;dev_express;279.89
+60329948;M;2000-01-01;2;3;47140;Commercial;z_SUV;no;6;5.0;Highly Urban/ Urban;2022-04-10 22:38:24;complet;dev_premium;444.44
+945949803;F;1957-12-24;0;0;23582;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-03-23 18:01:21;complet;dev_integral;336.38
+929525931;F;2003-09-18;0;2;19355;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-05-24 20:26:04;complet;dev_integral;326.44
+995761340;F;1953-03-25;0;0;18573;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-05 12:35:20;complet;dev_premium;474.58
+388307461;F;2012-04-07;0;0;89250;Private;Minivan;no;0;11.0;Highly Urban/ Urban;2022-05-17 21:03:46;complet;dev_vip;554.77
+174671893;M;1975-07-12;0;0;79594;Commercial;Van;yes;5;;Highly Urban/ Urban;2022-05-30 12:05:26;complet;dev_express;252.03
+326820492;M;2017-09-16;0;0;28551;Private;Sports Car;no;3;1.0;Highly Urban/ Urban;2022-01-25 11:38:44;complet;dev_premium;490.84
+249889271;F;1956-01-19;0;0;121688;Private;Sports Car;no;0;7.0;z_Highly Rural/ Rural;2022-01-30 11:59:40;complet;dev_integral;307.41
+864505372;F;1995-01-09;0;0;55532;Commercial;Panel Truck;no;1;1.0;Highly Urban/ Urban;2022-01-04 16:07:33;complet;dev_premium;488.47
+852315084;F;1972-08-30;0;0;178864;Private;z_SUV;no;0;15.0;Highly Urban/ Urban;2022-02-11 19:58:24;complet;dev_integral;328.18
+922780757;F;1957-08-09;0;2;54064;Private;Sports Car;no;3;7.0;Highly Urban/ Urban;2022-04-07 02:19:19;complet;dev_premium;351.77
+405037020;F;1969-02-07;0;4;58248;Private;Minivan;no;4;17.0;Highly Urban/ Urban;2022-02-09 23:54:33;complet;dev_express;260.23
+693046723;M;1939-02-11;0;0;108317;Commercial;Panel Truck;no;2;13.0;Highly Urban/ Urban;2022-04-27 04:09:11;complet;dev_express;260.05
+37477931;F;1974-01-23;0;1;34024;Private;z_SUV;no;0;4.0;Highly Urban/ Urban;2022-05-25 06:02:32;complet;dev_integral;313.5
+723051889;F;1957-12-29;0;0;35558;Commercial;Minivan;no;0;;z_Highly Rural/ Rural;2022-02-10 21:22:48;complet;dev_express;255.92
+119301768;M;2008-06-15;0;0;40245;Private;Sports Car;yes;9;8.0;Highly Urban/ Urban;2022-03-14 03:24:07;complet;dev_express;250.09
+954222851;M;1951-03-27;0;0;69530;Commercial;Pickup;yes;4;7.0;Highly Urban/ Urban;2022-05-11 10:53:02;complet;dev_integral;306.33
+914469084;M;1960-01-06;1;2;45298;Commercial;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-04-09 06:44:09;complet;dev_premium;414.58
+864895341;F;1946-10-28;0;0;57018;Commercial;z_SUV;no;2;14.0;z_Highly Rural/ Rural;2022-04-14 10:57:46;complet;dev_premium;522.86
+115686938;M;1940-10-11;0;1;37675;Private;Sports Car;no;3;7.0;Highly Urban/ Urban;2022-04-18 10:41:40;complet;dev_express;263.73
+161360224;M;1972-01-09;0;0;50049;Commercial;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-03-23 00:19:13;complet;dev_express;275.11
+930884352;M;1941-05-27;0;0;64076;Commercial;Minivan;yes;6;;Highly Urban/ Urban;2022-05-09 19:49:17;complet;dev_integral;306.06
+289561426;M;1964-12-23;0;0;23486;Private;Minivan;no;0;12.0;z_Highly Rural/ Rural;2022-02-04 03:00:54;complet;dev_express;255.66
+712302160;M;1961-10-27;1;1;37345;Commercial;Panel Truck;yes;1;8.0;Highly Urban/ Urban;2022-04-19 01:02:50;complet;dev_premium;533.34
+103995962;F;1971-04-12;0;3;31389;Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;2022-04-03 22:13:58;complet;dev_integral;337.24
+983789161;F;2004-09-16;1;2;58193;Private;Minivan;no;1;8.0;z_Highly Rural/ Rural;2022-01-18 05:21:31;complet;dev_integral;294.76
+450097524;F;1974-06-14;0;0;112481;Commercial;Panel Truck;yes;1;16.0;Highly Urban/ Urban;2022-03-23 16:17:22;complet;dev_express;268.94
+249934599;F;1960-05-28;0;0;43210;Private;z_SUV;yes;1;;Highly Urban/ Urban;2022-05-02 16:43:37;complet;dev_integral;290.84
+750731752;F;1973-03-31;0;0;45807;Commercial;Van;no;1;5.0;Highly Urban/ Urban;2022-01-19 00:38:48;complet;dev_express;259.92
+9697388;M;1966-10-04;0;2;40008;Commercial;Van;no;5;;Highly Urban/ Urban;2022-02-15 23:41:41;complet;dev_integral;294.79
+583441358;M;1959-03-03;0;0;109900;Private;z_SUV;no;0;13.0;Highly Urban/ Urban;2022-01-03 06:55:38;complet;dev_premium;502.24
+835221275;F;1970-10-23;0;3;25647;Private;Pickup;yes;2;6.0;Highly Urban/ Urban;2022-03-27 02:40:21;complet;dev_express;250.53
+588741868;F;2017-05-16;0;0;74789;Private;z_SUV;no;8;19.0;Highly Urban/ Urban;2022-04-02 14:20:38;complet;dev_premium;405.34
+702961342;M;1960-02-24;0;0;20299;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-04-30 22:44:59;complet;dev_premium;510.58
+22340563;M;1953-09-27;1;3;27204;Private;Minivan;no;1;1.0;z_Highly Rural/ Rural;2022-04-07 11:09:26;complet;dev_integral;338.12
+360476883;M;1950-11-09;0;3;113195;Private;Sports Car;no;0;16.0;Highly Urban/ Urban;2022-01-22 06:45:54;complet;dev_integral;317.4
+35699337;M;1955-04-29;1;1;;Commercial;Pickup;no;0;18.0;z_Highly Rural/ Rural;2022-05-07 03:05:47;complet;dev_integral;322.32
+88744550;F;1993-11-30;0;0;75080;Private;z_SUV;no;4;3.0;Highly Urban/ Urban;2022-01-07 07:53:02;complet;dev_premium;538.88
+473317996;F;2019-11-23;0;4;113498;Commercial;z_SUV;no;5;5.0;Highly Urban/ Urban;2022-01-05 18:21:07;complet;dev_integral;334.48
+199865035;F;1940-12-05;0;0;38720;Commercial;Minivan;no;0;1.0;Highly Urban/ Urban;2022-05-13 15:01:42;complet;dev_integral;318.22
+832341300;M;1968-09-06;0;0;125625;Private;Minivan;no;4;10.0;Highly Urban/ Urban;2022-05-11 05:29:36;complet;dev_express;253.64
+192407030;F;1958-03-30;0;0;38504;Private;z_SUV;no;3;9.0;Highly Urban/ Urban;2022-03-29 05:23:58;complet;dev_integral;310.03
+893178600;M;1997-09-21;0;2;35192;Private;z_SUV;no;0;3.0;z_Highly Rural/ Rural;2022-02-12 09:30:57;complet;dev_premium;446.4
+37246864;F;1954-11-02;0;0;0;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-03-18 03:20:11;complet;dev_premium;323.71
+445582540;F;1941-02-16;0;0;33791;Private;Pickup;yes;5;1.0;Highly Urban/ Urban;2022-01-25 12:09:45;complet;dev_express;273.49
+648577877;F;1997-10-21;0;0;50621;Private;z_SUV;no;3;;Highly Urban/ Urban;2022-05-11 03:18:18;complet;dev_express;268.08
+8467576;M;2020-01-21;2;2;69434;Private;Minivan;yes;0;7.0;Highly Urban/ Urban;2022-05-04 06:00:27;complet;dev_express;251.24
+288561163;F;1992-06-30;0;0;77686;Private;Minivan;yes;3;;Highly Urban/ Urban;2022-01-22 22:28:01;complet;dev_express;277.25
+989121977;F;1980-11-10;0;0;68194;Commercial;z_SUV;no;2;10.0;Highly Urban/ Urban;2022-01-06 14:38:33;complet;dev_express;256.99
+195844876;F;1956-07-31;0;1;16502;Private;z_SUV;no;2;7.0;z_Highly Rural/ Rural;2022-04-11 02:23:36;complet;dev_integral;310.35
+540229328;M;1955-11-17;0;0;46812;Private;Pickup;no;0;16.0;Highly Urban/ Urban;2022-03-22 21:40:20;complet;dev_integral;288.06
+31091202;F;1986-10-02;0;0;180128;Commercial;Panel Truck;no;0;15.0;Highly Urban/ Urban;2022-03-31 19:09:35;complet;dev_premium;513.79
+904934030;F;1957-05-16;0;0;175219;Private;z_SUV;no;0;15.0;Highly Urban/ Urban;2022-03-09 15:11:04;complet;dev_integral;293.6
+919497852;M;1951-01-19;0;2;39144;Private;z_SUV;no;5;1.0;Highly Urban/ Urban;2022-05-07 11:43:44;complet;dev_integral;287.88
+397609188;F;1954-04-03;0;0;91605;Private;Minivan;yes;3;10.0;Highly Urban/ Urban;2022-02-24 02:03:16;complet;dev_integral;315.82
+583493255;F;1981-07-23;0;0;73671;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-05-24 09:47:23;complet;dev_express;275.89
+359736972;M;1960-01-13;0;0;81767;Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-02-25 23:45:51;complet;dev_express;283.32
+247258580;F;1940-05-20;0;0;5;Commercial;Pickup;yes;0;11.0;Highly Urban/ Urban;2022-03-29 07:38:59;complet;dev_express;278.57
+263632369;F;1945-01-17;1;2;79053;Private;Sports Car;no;6;12.0;Highly Urban/ Urban;2022-05-10 14:59:04;complet;dev_express;278.88
+24038801;M;2013-01-11;0;1;41229;Private;z_SUV;no;3;5.0;Highly Urban/ Urban;2022-05-14 19:19:02;complet;dev_integral;294.07
+39016793;F;1937-10-25;0;0;;Private;Van;yes;3;12.0;Highly Urban/ Urban;2022-01-19 01:48:29;complet;dev_integral;287.36
+638602003;M;1990-12-07;2;2;64990;Commercial;Pickup;no;0;7.0;Highly Urban/ Urban;2022-05-27 14:41:25;complet;dev_premium;444.12
+903207853;M;2015-10-18;0;3;14818;Commercial;Van;yes;0;1.0;z_Highly Rural/ Rural;2022-01-13 11:51:51;complet;dev_integral;327.96
+529008078;M;1987-10-29;0;0;39095;Private;Pickup;yes;0;10.0;Highly Urban/ Urban;2022-04-08 01:47:31;complet;dev_integral;324.54
+349140341;F;1993-10-30;0;0;90075;Private;Minivan;no;2;15.0;Highly Urban/ Urban;2022-04-26 15:04:52;complet;dev_integral;282.0
+133687781;M;2006-11-13;0;0;100328;Private;z_SUV;no;1;20.0;Highly Urban/ Urban;2022-01-30 17:15:42;complet;dev_integral;304.82
+639473172;F;1987-10-21;0;0;57095;Commercial;z_SUV;no;5;12.0;z_Highly Rural/ Rural;2022-05-18 05:21:15;complet;dev_express;265.76
+547998631;M;1969-03-26;0;0;46993;Commercial;Minivan;no;3;6.0;Highly Urban/ Urban;2022-01-27 08:09:52;complet;dev_premium;408.4
+766689359;F;1966-04-08;0;0;139307;Private;Van;yes;0;18.0;Highly Urban/ Urban;2022-02-13 22:32:54;complet;dev_express;270.45
+187776372;M;2016-05-02;0;0;26114;Private;Minivan;no;0;8.0;Highly Urban/ Urban;2022-04-26 23:23:10;complet;dev_integral;324.01
+193388454;M;1963-06-05;0;3;98485;Commercial;Van;yes;2;;z_Highly Rural/ Rural;2022-05-26 00:20:31;complet;dev_premium;496.66
+105167366;M;1965-09-28;0;3;;Private;Minivan;no;0;16.0;Highly Urban/ Urban;2022-02-06 07:26:48;complet;dev_integral;311.46
+311422974;F;2002-04-09;1;3;29251;Private;Minivan;no;0;5.0;Highly Urban/ Urban;2022-02-05 06:43:03;complet;dev_express;264.18
+230285211;F;1937-09-25;0;0;17562;Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;2022-03-26 06:02:00;complet;dev_premium;450.47
+804938542;F;1954-07-19;0;0;47248;Commercial;Panel Truck;no;4;10.0;Highly Urban/ Urban;2022-02-14 17:36:36;complet;dev_express;251.35
+754785835;F;2014-10-29;0;0;63457;Commercial;Panel Truck;no;5;8.0;Highly Urban/ Urban;2022-04-17 16:52:46;complet;dev_integral;339.54
+733505117;F;1944-05-11;0;2;99186;Commercial;Van;yes;1;9.0;Highly Urban/ Urban;2022-02-12 04:17:48;complet;dev_express;253.15
+622982638;M;2015-01-29;0;0;165193;Commercial;Pickup;no;0;17.0;Highly Urban/ Urban;2022-03-20 21:08:51;complet;dev_integral;294.96
+285072055;M;2010-08-04;0;0;98572;Commercial;Van;no;7;10.0;Highly Urban/ Urban;2022-03-24 00:32:23;complet;dev_express;253.78
+582651288;M;1947-01-13;0;0;14356;Private;z_SUV;no;4;;Highly Urban/ Urban;2022-05-28 16:57:35;complet;dev_integral;310.92
+185458905;M;1967-04-29;0;0;62991;Private;z_SUV;no;1;7.0;Highly Urban/ Urban;2022-04-27 16:49:38;complet;dev_integral;327.49
+976090829;M;1973-01-22;0;0;99403;Private;z_SUV;no;1;1.0;z_Highly Rural/ Rural;2022-01-28 09:25:34;complet;dev_premium;320.33
+606671545;M;2009-04-28;0;0;171913;Commercial;Panel Truck;no;4;11.0;Highly Urban/ Urban;2022-03-21 10:05:51;complet;dev_express;281.3
+987311024;F;1953-02-22;0;0;60599;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-01-07 09:45:07;complet;dev_integral;334.13
+424197869;F;1965-04-02;0;0;102092;Private;Minivan;no;4;13.0;Highly Urban/ Urban;2022-05-15 03:11:09;complet;dev_premium;346.74
+9864398;F;1988-05-11;0;0;47847;Commercial;Sports Car;no;4;12.0;Highly Urban/ Urban;2022-02-09 14:04:59;complet;dev_integral;309.27
+894008021;M;1955-06-17;0;0;196756;Commercial;Pickup;no;3;13.0;Highly Urban/ Urban;2022-02-04 16:41:19;complet;dev_express;283.0
+196850945;F;1981-06-05;0;0;91924;Commercial;Van;no;3;8.0;Highly Urban/ Urban;2022-04-30 22:43:02;complet;dev_integral;317.98
+980076743;M;2001-04-23;0;0;70851;Private;Van;no;0;1.0;Highly Urban/ Urban;2022-01-06 19:41:51;complet;dev_express;264.99
+400793877;M;1974-07-04;0;1;54853;Private;z_SUV;no;2;1.0;Highly Urban/ Urban;2022-04-12 12:00:17;complet;dev_express;259.91
+70519778;F;1938-10-31;0;0;95662;Commercial;Panel Truck;no;5;10.0;Highly Urban/ Urban;2022-04-25 16:57:27;complet;dev_express;250.93
+164947678;M;1988-11-20;2;2;93310;Commercial;Pickup;no;4;8.0;Highly Urban/ Urban;2022-01-01 07:42:58;complet;dev_integral;336.46
+692062611;M;1965-10-29;0;0;30631;Commercial;Pickup;yes;5;1.0;Highly Urban/ Urban;2022-03-16 12:46:20;complet;dev_express;284.06
+377336272;M;2000-06-26;0;0;127079;Commercial;Panel Truck;no;3;20.0;Highly Urban/ Urban;2022-03-20 11:43:59;complet;dev_integral;325.01
+367158992;M;1951-07-19;0;0;0;Private;z_SUV;no;3;2.0;Highly Urban/ Urban;2022-01-20 09:01:55;complet;dev_integral;290.62
+484058014;M;1966-02-27;0;0;72306;Private;Minivan;yes;0;12.0;Highly Urban/ Urban;2022-05-10 05:21:33;complet;dev_integral;304.34
+190335385;M;2018-07-25;0;0;0;Private;Sports Car;no;5;11.0;Highly Urban/ Urban;2022-01-10 01:26:00;complet;dev_premium;522.67
+182670239;F;2018-06-08;0;0;74713;Private;Sports Car;no;0;12.0;z_Highly Rural/ Rural;2022-03-28 12:26:43;complet;dev_integral;313.78
+320166141;F;1978-08-08;0;0;38768;Private;Minivan;yes;4;11.0;Highly Urban/ Urban;2022-04-13 14:44:19;complet;dev_integral;308.04
+428288926;F;1938-01-01;0;0;79989;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-02-21 23:21:11;complet;dev_integral;326.77
+829674021;F;2006-02-03;0;0;32196;Private;Pickup;yes;2;1.0;Highly Urban/ Urban;2022-01-15 01:35:54;complet;dev_integral;316.44
+105136025;F;1983-06-25;0;0;25620;Commercial;Pickup;yes;0;10.0;z_Highly Rural/ Rural;2022-01-25 15:18:53;complet;dev_integral;337.36
+538955593;M;1952-02-28;0;0;;Private;Minivan;no;2;7.0;Highly Urban/ Urban;2022-01-18 08:22:19;complet;dev_integral;332.68
+622751878;F;1947-11-26;0;0;276054;Commercial;Panel Truck;yes;0;17.0;Highly Urban/ Urban;2022-02-15 23:56:38;complet;dev_express;271.49
+282856816;M;1964-10-17;0;1;75128;Private;Pickup;no;1;14.0;Highly Urban/ Urban;2022-01-27 03:55:48;complet;dev_premium;525.25
+495081514;M;1966-06-26;0;0;45819;Private;Pickup;no;4;9.0;Highly Urban/ Urban;2022-03-18 07:40:09;complet;dev_express;280.37
+198710955;M;2006-02-15;0;0;52703;Private;Pickup;no;0;8.0;Highly Urban/ Urban;2022-03-22 07:46:42;complet;dev_integral;311.45
+709159686;M;2020-11-14;0;0;36700;Private;Minivan;no;3;;Highly Urban/ Urban;2022-03-07 03:55:33;complet;dev_integral;322.57
+833177798;M;2017-01-25;0;0;61597;Commercial;Van;yes;0;4.0;Highly Urban/ Urban;2022-05-18 22:10:27;complet;dev_integral;323.43
+762552558;F;2001-07-22;0;1;37364;Private;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-05-01 17:43:06;complet;dev_express;283.1
+120991168;F;1977-12-27;0;2;82478;Private;z_SUV;no;0;11.0;Highly Urban/ Urban;2022-05-26 22:40:54;complet;dev_integral;306.68
+182301007;F;2010-10-05;0;0;49654;Private;z_SUV;no;6;;Highly Urban/ Urban;2022-04-23 11:29:17;complet;dev_premium;502.35
+178900296;F;1934-06-29;1;1;113595;Private;Minivan;yes;1;11.0;Highly Urban/ Urban;2022-02-27 02:58:11;complet;dev_express;252.97
+923115251;F;1955-12-10;0;0;62881;Private;Pickup;yes;2;10.0;Highly Urban/ Urban;2022-04-16 10:28:32;complet;dev_integral;281.49
+491050222;F;2004-05-13;0;3;48741;Commercial;Panel Truck;no;1;21.0;Highly Urban/ Urban;2022-03-21 00:34:36;complet;dev_express;280.78
+191509516;M;1979-04-20;0;0;20850;Commercial;Sports Car;no;0;1.0;z_Highly Rural/ Rural;2022-05-10 09:58:34;complet;dev_integral;289.57
+695733470;F;2020-11-24;0;2;80054;Private;Pickup;no;0;10.0;z_Highly Rural/ Rural;2022-04-11 21:52:04;complet;dev_integral;292.53
+690754289;F;1973-06-17;0;3;11585;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-05-13 22:59:22;complet;dev_express;274.81
+329879708;F;1954-03-30;2;3;9750;Private;Minivan;yes;3;1.0;Highly Urban/ Urban;2022-05-26 20:49:38;complet;dev_integral;319.11
+720955799;F;1943-09-10;0;0;47936;Private;Pickup;no;0;10.0;z_Highly Rural/ Rural;2022-03-03 14:18:18;complet;dev_express;257.24
+947631958;F;1954-04-11;0;0;201627;Private;Sports Car;no;0;12.0;Highly Urban/ Urban;2022-01-26 19:37:12;complet;dev_express;261.81
+297184888;M;2013-12-07;0;0;130381;Commercial;Pickup;yes;4;20.0;Highly Urban/ Urban;2022-01-22 01:15:05;complet;dev_express;279.4
+627828331;F;1951-03-17;0;0;2633;Private;z_SUV;no;0;3.0;Highly Urban/ Urban;2022-05-25 07:24:02;complet;dev_express;269.65
+316675115;F;2005-06-19;0;0;73528;Private;Minivan;no;0;11.0;Highly Urban/ Urban;2022-02-03 17:35:31;complet;dev_premium;434.84
+577705909;F;1971-11-04;0;0;141386;Commercial;Panel Truck;yes;5;19.0;Highly Urban/ Urban;2022-01-08 02:38:04;complet;dev_express;261.49
+994635309;F;1976-06-19;0;0;0;Commercial;Minivan;no;0;11.0;z_Highly Rural/ Rural;2022-05-02 00:05:58;complet;dev_express;279.94
+302592534;M;1988-07-18;0;0;42089;Commercial;Sports Car;yes;0;7.0;Highly Urban/ Urban;2022-05-18 16:18:06;complet;dev_express;265.59
+369429861;M;1985-06-25;0;0;29844;Private;Minivan;no;0;8.0;z_Highly Rural/ Rural;2022-05-25 08:12:41;complet;dev_premium;494.57
+922516177;M;1957-04-28;1;1;40570;Private;Sports Car;no;2;1.0;Highly Urban/ Urban;2022-05-04 10:23:12;complet;dev_integral;316.98
+533429603;F;1962-02-02;0;1;134520;Private;Pickup;no;2;12.0;Highly Urban/ Urban;2022-04-16 07:28:17;complet;dev_integral;319.58
+396892250;M;2003-06-21;0;0;16052;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-02-17 11:37:37;complet;dev_integral;332.58
+918606594;M;1941-08-25;0;0;105442;Private;Minivan;yes;0;11.0;Highly Urban/ Urban;2022-04-25 08:56:36;complet;dev_premium;394.46
+486815695;F;2012-01-18;0;0;36935;Commercial;Panel Truck;no;0;7.0;Highly Urban/ Urban;2022-03-24 18:04:55;complet;dev_integral;299.2
+996649251;F;1974-02-05;0;4;0;Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;2022-01-24 04:40:38;complet;dev_express;279.57
+496476303;M;1939-08-03;1;1;;Private;Pickup;yes;0;9.0;z_Highly Rural/ Rural;2022-03-03 06:41:02;complet;dev_integral;321.89
+839427801;F;1962-07-15;0;0;138550;Private;Van;yes;0;14.0;Highly Urban/ Urban;2022-01-29 15:32:16;complet;dev_integral;303.5
+803840924;F;1931-09-24;1;2;15035;Private;z_SUV;no;0;4.0;z_Highly Rural/ Rural;2022-04-29 12:31:08;complet;dev_integral;337.33
+797320781;F;1950-06-09;0;0;78103;Private;Sports Car;no;0;6.0;Highly Urban/ Urban;2022-01-11 18:54:43;complet;dev_integral;309.68
+967774042;F;1979-11-06;0;1;16715;Commercial;Pickup;no;7;1.0;z_Highly Rural/ Rural;2022-05-11 07:38:11;complet;dev_express;279.56
+456720318;F;1968-07-06;0;2;25570;Private;z_SUV;no;6;1.0;Highly Urban/ Urban;2022-05-07 22:16:31;complet;dev_express;266.9
+888957957;M;2018-04-22;0;0;86091;Commercial;Minivan;no;3;1.0;Highly Urban/ Urban;2022-02-08 23:25:47;complet;dev_express;258.75
+551370243;F;1951-03-30;0;0;85894;Private;Minivan;yes;2;19.0;Highly Urban/ Urban;2022-02-01 06:20:01;complet;dev_integral;336.13
+460845643;F;1962-12-20;0;0;26301;Commercial;z_SUV;no;3;12.0;Highly Urban/ Urban;2022-03-10 16:31:37;complet;dev_integral;302.68
+18096053;F;1970-05-10;0;0;40466;Private;Minivan;no;1;1.0;Highly Urban/ Urban;2022-03-08 15:24:45;complet;dev_integral;317.96
+837810448;F;1963-04-14;0;0;35231;Private;z_SUV;no;1;9.0;z_Highly Rural/ Rural;2022-05-27 17:51:45;complet;dev_premium;445.13
+22905935;F;1973-12-10;0;0;74295;Private;Pickup;yes;2;9.0;Highly Urban/ Urban;2022-01-07 08:08:56;complet;dev_vip;626.17
+12136446;M;1942-05-16;1;3;20921;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-02-14 20:28:51;complet;dev_express;263.27
+97750917;M;1988-12-06;0;0;30960;Private;Sports Car;no;0;4.0;Highly Urban/ Urban;2022-02-21 01:00:18;complet;dev_express;256.04
+708077771;M;1971-05-24;0;1;36354;Commercial;Van;yes;0;7.0;z_Highly Rural/ Rural;2022-04-09 20:12:42;complet;dev_integral;284.7
+361665026;F;1958-10-09;0;3;74546;Commercial;Minivan;no;5;9.0;Highly Urban/ Urban;2022-03-25 02:23:51;complet;dev_integral;303.62
+621496694;F;1976-12-31;0;1;88305;Private;z_SUV;no;0;20.0;Highly Urban/ Urban;2022-03-31 08:06:25;complet;dev_express;273.9
+62746989;M;2006-12-30;0;0;51814;Private;Sports Car;no;0;15.0;Highly Urban/ Urban;2022-02-02 02:18:25;complet;dev_integral;294.79
+430441105;M;1973-09-13;0;0;43560;Commercial;Pickup;yes;0;7.0;Highly Urban/ Urban;2022-05-08 12:04:30;complet;dev_integral;307.93
+694267964;M;1984-11-07;0;1;110543;Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-04-04 21:09:56;complet;dev_integral;282.43
+525918644;F;1993-07-21;1;2;0;Private;Sports Car;no;3;6.0;Highly Urban/ Urban;2022-01-11 12:37:19;complet;dev_express;256.59
+491709455;M;1962-09-11;0;3;124375;Commercial;Panel Truck;no;4;8.0;Highly Urban/ Urban;2022-03-22 14:39:10;complet;dev_express;281.4
+132609655;M;1942-06-10;0;1;40990;Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-01-30 05:24:39;complet;dev_integral;334.88
+549069454;M;1988-12-27;0;0;72500;Private;z_SUV;no;7;1.0;Highly Urban/ Urban;2022-05-09 02:49:14;complet;dev_integral;311.75
+920638735;M;1949-04-30;0;0;34408;Commercial;Minivan;no;3;5.0;Highly Urban/ Urban;2022-04-11 20:56:39;complet;dev_integral;288.41
+249037674;M;1968-03-20;0;0;108309;Commercial;Van;yes;1;8.0;Highly Urban/ Urban;2022-01-10 18:15:07;complet;dev_integral;324.97
+171275064;M;1968-03-04;0;0;111916;Private;z_SUV;no;2;;Highly Urban/ Urban;2022-03-26 19:37:55;complet;dev_premium;455.97
+476931149;F;2000-11-05;0;0;72665;Commercial;Panel Truck;no;10;14.0;Highly Urban/ Urban;2022-02-24 04:11:14;complet;dev_express;259.49
+235798867;F;2003-04-28;0;1;115308;Commercial;Panel Truck;no;3;3.0;Highly Urban/ Urban;2022-03-05 20:32:51;complet;dev_integral;292.06
+131421512;F;1942-02-22;0;0;0;Private;Minivan;no;0;10.0;Highly Urban/ Urban;2022-04-30 22:26:44;complet;dev_express;281.72
+34434267;M;1988-10-30;0;0;18213;Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;2022-01-26 05:23:46;complet;dev_integral;308.23
+257833353;F;1936-12-01;1;1;103076;Private;Minivan;no;4;10.0;Highly Urban/ Urban;2022-01-06 03:41:55;complet;dev_vip;694.47
+29775028;M;1994-07-01;0;0;54691;Private;Minivan;yes;0;13.0;Highly Urban/ Urban;2022-01-09 12:44:34;complet;dev_integral;327.58
+713884148;M;1956-06-04;0;1;84250;Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-01-13 00:17:29;complet;dev_integral;333.97
+201054523;F;1941-08-15;0;0;164088;Private;Sports Car;no;8;20.0;Highly Urban/ Urban;2022-05-10 08:42:34;complet;dev_integral;307.83
+794040462;M;1943-11-09;0;3;85127;Commercial;Panel Truck;no;0;1.0;z_Highly Rural/ Rural;2022-03-02 15:25:05;complet;dev_integral;339.69
+22460980;F;1974-11-20;0;4;78397;Private;Minivan;no;2;18.0;Highly Urban/ Urban;2022-01-30 12:21:04;complet;dev_express;253.83
+574158891;F;1970-02-18;0;0;;Private;z_SUV;no;0;25.0;Highly Urban/ Urban;2022-04-14 07:57:49;complet;dev_integral;291.05
+557742413;M;1993-10-03;0;1;123062;Commercial;Panel Truck;yes;0;19.0;Highly Urban/ Urban;2022-05-29 01:33:19;complet;dev_integral;307.72
+549986445;M;2018-07-29;0;1;38898;Private;Pickup;yes;0;17.0;Highly Urban/ Urban;2022-05-24 02:16:40;complet;dev_express;268.44
+905883739;F;1971-06-06;0;0;68564;Commercial;Pickup;yes;2;11.0;z_Highly Rural/ Rural;2022-01-27 13:08:08;complet;dev_integral;301.81
+593108777;F;1966-04-27;0;0;53129;Private;Van;no;3;13.0;Highly Urban/ Urban;2022-05-07 12:43:28;complet;dev_express;256.13
+757352494;M;1951-03-15;0;3;32601;Commercial;z_SUV;no;0;8.0;z_Highly Rural/ Rural;2022-03-06 05:37:43;complet;dev_premium;431.79
+42018118;M;2004-04-15;0;3;46395;Commercial;z_SUV;no;1;5.0;Highly Urban/ Urban;2022-05-06 19:28:17;complet;dev_express;268.02
+760469299;F;1969-02-19;0;1;55086;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-01-23 05:32:38;complet;dev_premium;545.82
+676967525;M;1998-10-03;0;1;0;Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;2022-01-21 14:17:21;complet;dev_integral;290.47
+944927413;M;1960-10-13;0;3;;Private;Minivan;yes;1;;Highly Urban/ Urban;2022-05-24 23:51:28;complet;dev_integral;315.21
+62426525;F;1983-03-11;0;1;25989;Private;Minivan;yes;4;8.0;z_Highly Rural/ Rural;2022-04-23 17:43:33;complet;dev_integral;282.79
+660380025;F;1961-08-21;0;0;128950;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-02-19 18:27:38;complet;dev_express;270.0
+591330652;F;1954-12-19;0;0;34671;Private;Minivan;no;0;7.0;z_Highly Rural/ Rural;2022-01-10 09:54:06;complet;dev_express;280.92
+195933426;M;2014-05-17;0;2;44022;Private;Sports Car;no;0;13.0;Highly Urban/ Urban;2022-02-26 17:17:54;complet;dev_premium;400.38
+753800009;F;1989-04-08;1;2;0;Private;z_SUV;no;0;10.0;Highly Urban/ Urban;2022-01-03 08:13:56;complet;dev_express;268.53
+229711979;M;1963-06-18;0;0;;Private;Minivan;yes;0;;Highly Urban/ Urban;2022-01-27 16:05:26;complet;dev_integral;303.81
+270029813;M;1938-04-01;0;0;42156;Commercial;Panel Truck;no;2;8.0;z_Highly Rural/ Rural;2022-05-26 01:19:31;complet;dev_integral;323.88
+949937496;F;1973-10-20;0;1;0;Private;Minivan;no;3;1.0;Highly Urban/ Urban;2022-03-07 14:13:21;complet;dev_integral;335.54
+167555506;F;1972-11-11;0;0;36302;Private;z_SUV;no;3;;Highly Urban/ Urban;2022-04-16 20:05:05;complet;dev_express;277.37
+705235711;M;1978-12-13;0;2;35256;Private;z_SUV;no;3;6.0;Highly Urban/ Urban;2022-05-23 01:28:29;complet;dev_express;261.07
+133422221;F;1955-03-01;0;2;26763;Private;z_SUV;no;0;11.0;Highly Urban/ Urban;2022-01-08 06:18:48;complet;dev_premium;452.78
+854714763;M;2002-06-22;0;1;70565;Private;Minivan;no;0;21.0;Highly Urban/ Urban;2022-05-29 04:55:24;complet;dev_integral;333.27
+343314151;M;1952-04-03;1;2;44830;Private;Minivan;yes;1;8.0;Highly Urban/ Urban;2022-01-10 03:39:01;complet;dev_integral;310.58
+927875675;F;1967-09-05;0;0;83033;Private;Minivan;no;0;;Highly Urban/ Urban;2022-04-18 14:58:12;complet;dev_integral;311.12
+825541637;M;2011-09-25;0;2;152787;Private;Minivan;no;1;18.0;Highly Urban/ Urban;2022-01-16 03:51:45;complet;dev_express;262.33
+92691593;M;1945-11-16;0;0;50100;Commercial;Van;yes;2;7.0;Highly Urban/ Urban;2022-01-02 13:57:06;complet;dev_express;264.89
+740607512;M;1955-06-14;0;0;131277;Commercial;Van;no;3;16.0;Highly Urban/ Urban;2022-03-18 04:49:48;complet;dev_integral;331.57
+528375582;M;1949-08-06;0;0;138854;Private;Sports Car;no;0;14.0;Highly Urban/ Urban;2022-01-19 09:26:29;complet;dev_premium;471.73
+685834429;M;2012-02-22;0;3;77830;Commercial;z_SUV;no;0;11.0;Highly Urban/ Urban;2022-05-06 19:13:16;complet;dev_integral;294.57
+549794102;F;1957-05-02;0;1;39811;Commercial;z_SUV;no;3;4.0;Highly Urban/ Urban;2022-04-27 00:03:33;complet;dev_express;253.56
+720667319;M;2010-05-26;0;0;136458;Private;Minivan;no;4;19.0;Highly Urban/ Urban;2022-02-16 20:52:00;complet;dev_express;276.9
+514525729;F;1933-12-08;0;0;;Private;Pickup;no;0;14.0;Highly Urban/ Urban;2022-03-06 03:04:38;complet;dev_integral;293.95
+872514261;M;1983-06-19;0;0;37092;Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;2022-01-07 02:54:30;complet;dev_express;274.3
+895826770;M;1950-10-10;0;1;118870;Private;Minivan;yes;0;16.0;Highly Urban/ Urban;2022-02-23 11:01:49;complet;dev_express;273.49
+165295532;F;1981-03-17;1;1;118663;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-04-11 10:47:39;complet;dev_integral;291.08
+214882221;F;1985-08-09;0;0;;Private;Sports Car;no;1;15.0;Highly Urban/ Urban;2022-03-16 21:12:01;complet;dev_integral;304.57
+342861311;F;1979-12-17;0;0;0;Commercial;Minivan;no;2;11.0;Highly Urban/ Urban;2022-05-13 08:26:09;complet;dev_express;281.08
+429128652;M;1975-02-26;0;0;110911;Commercial;Panel Truck;yes;1;7.0;Highly Urban/ Urban;2022-01-08 21:15:51;complet;dev_express;278.25
+981057971;F;1951-08-01;0;0;109437;Private;Van;yes;0;3.0;Highly Urban/ Urban;2022-03-13 10:59:15;complet;dev_express;269.56
+71181985;M;1945-09-29;0;0;30969;Commercial;Pickup;yes;3;8.0;Highly Urban/ Urban;2022-01-05 22:40:15;complet;dev_express;266.91
+931868441;F;1985-03-01;3;4;71905;Commercial;Pickup;no;1;8.0;Highly Urban/ Urban;2022-02-17 01:45:20;complet;dev_premium;436.75
+639006903;M;1931-11-19;0;0;0;Private;z_SUV;no;0;16.0;z_Highly Rural/ Rural;2022-04-14 05:13:00;complet;dev_premium;346.53
+519292395;M;1945-07-05;0;0;0;Private;z_SUV;no;2;10.0;Highly Urban/ Urban;2022-02-10 01:05:21;complet;dev_express;259.31
+986627860;M;1951-12-31;1;3;80052;Commercial;Minivan;no;0;9.0;z_Highly Rural/ Rural;2022-04-17 21:45:58;complet;dev_integral;296.6
+792196051;F;2009-04-25;0;0;;Commercial;Sports Car;no;7;1.0;Highly Urban/ Urban;2022-02-15 14:51:15;complet;dev_integral;333.2
+607351322;M;2019-08-07;0;0;137657;Commercial;Panel Truck;no;0;5.0;Highly Urban/ Urban;2022-04-07 15:44:29;complet;dev_integral;309.22
+454175399;M;1934-11-21;0;3;0;Private;z_SUV;no;8;5.0;Highly Urban/ Urban;2022-01-11 21:36:58;complet;dev_express;266.33
+611811934;M;1958-10-13;0;0;256870;Commercial;Panel Truck;no;0;16.0;Highly Urban/ Urban;2022-01-29 06:11:36;complet;dev_express;283.22
+790529683;M;1964-05-29;0;0;219768;Commercial;Panel Truck;yes;5;19.0;Highly Urban/ Urban;2022-01-27 10:26:14;complet;dev_express;267.29
+206196303;F;2019-02-27;0;2;58228;Private;Minivan;no;0;7.0;Highly Urban/ Urban;2022-04-09 17:13:23;complet;dev_integral;286.38
+647719405;F;2002-04-20;0;2;76123;Commercial;z_SUV;no;0;8.0;Highly Urban/ Urban;2022-02-04 22:31:43;complet;dev_integral;290.17
+594117257;M;2013-06-24;0;2;76488;Private;Minivan;no;2;9.0;Highly Urban/ Urban;2022-04-13 19:59:01;complet;dev_premium;351.77
+349489914;M;1983-12-09;0;0;;Commercial;Van;yes;1;14.0;Highly Urban/ Urban;2022-03-01 04:29:22;complet;dev_premium;386.43
+877546076;F;1960-12-12;0;0;0;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-02-13 11:48:07;complet;dev_premium;345.84
+351251758;M;1959-03-29;0;3;39923;Commercial;Van;yes;2;1.0;Highly Urban/ Urban;2022-03-27 04:34:07;complet;dev_integral;323.63
+533416676;M;1973-11-08;0;0;107047;Private;Sports Car;no;0;14.0;Highly Urban/ Urban;2022-03-26 22:33:03;complet;dev_express;254.9
+616164342;F;1942-05-05;0;0;97775;Private;Pickup;no;0;;Highly Urban/ Urban;2022-04-05 17:32:06;complet;dev_premium;400.38
+592505103;F;2014-01-18;0;0;2825;Private;z_SUV;no;2;16.0;z_Highly Rural/ Rural;2022-01-23 22:34:08;complet;dev_premium;486.84
+46413377;M;1946-11-10;0;0;82709;Commercial;Pickup;no;0;16.0;Highly Urban/ Urban;2022-02-14 23:26:36;complet;dev_integral;297.43
+671423077;F;1967-10-27;0;0;31114;Private;Pickup;no;0;;Highly Urban/ Urban;2022-03-31 03:07:24;complet;dev_express;278.49
+413358029;M;1972-08-12;0;0;0;Private;Pickup;no;1;1.0;Highly Urban/ Urban;2022-05-11 06:47:38;complet;dev_integral;336.95
+993108634;F;1985-01-02;0;3;0;Private;z_SUV;no;7;1.0;Highly Urban/ Urban;2022-03-24 15:19:18;complet;dev_integral;332.19
+597271892;M;1950-03-08;0;0;6576;Private;Pickup;no;6;1.0;Highly Urban/ Urban;2022-03-29 12:51:42;complet;dev_express;262.21
+617024306;F;1987-03-27;0;3;;Commercial;Panel Truck;yes;0;1.0;Highly Urban/ Urban;2022-01-02 23:38:39;complet;dev_integral;312.99
+952827285;M;1954-02-02;1;2;30939;Commercial;Pickup;yes;5;1.0;Highly Urban/ Urban;2022-05-29 03:14:16;complet;dev_integral;327.81
+738770352;M;2007-01-10;0;0;99488;Private;Van;no;11;16.0;Highly Urban/ Urban;2022-04-18 23:11:04;complet;dev_integral;328.43
+48190781;M;1957-06-12;0;0;14600;Private;Minivan;no;2;1.0;z_Highly Rural/ Rural;2022-04-17 11:37:04;complet;dev_integral;308.61
+797568231;M;1940-06-10;0;0;81493;Commercial;Minivan;yes;6;7.0;Highly Urban/ Urban;2022-03-08 08:49:18;complet;dev_integral;327.04
+596152711;F;1934-07-21;0;0;81937;Private;Sports Car;no;0;12.0;Highly Urban/ Urban;2022-04-28 19:59:16;complet;dev_express;279.62
+964114982;M;1976-09-13;0;0;86603;Commercial;z_SUV;no;1;7.0;z_Highly Rural/ Rural;2022-04-05 14:33:17;complet;dev_premium;468.07
+8467576;M;1981-04-07;2;2;21891;Commercial;Minivan;no;0;5.0;Highly Urban/ Urban;2022-03-30 17:39:25;complet;dev_premium;517.59
+233385530;F;1964-11-12;0;0;61567;Private;Minivan;no;2;1.0;Highly Urban/ Urban;2022-04-09 15:27:18;complet;dev_integral;305.85
+299673154;F;1960-08-28;0;0;100788;Commercial;Panel Truck;no;6;18.0;Highly Urban/ Urban;2022-05-06 19:05:37;complet;dev_express;276.68
+40478781;F;1952-05-15;1;1;40662;Private;z_SUV;no;4;11.0;z_Highly Rural/ Rural;2022-04-29 01:23:36;complet;dev_integral;332.02
+460636426;F;1975-05-01;0;0;38391;Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;2022-01-03 09:08:34;complet;dev_express;263.56
+950870120;M;2003-05-13;0;0;61077;Commercial;Panel Truck;yes;1;4.0;z_Highly Rural/ Rural;2022-05-09 02:38:56;complet;dev_vip;990.87
+333567382;F;1931-07-29;0;0;;Commercial;Pickup;yes;0;17.0;Highly Urban/ Urban;2022-01-22 15:35:39;complet;dev_integral;283.1
+197692132;F;2014-01-15;0;0;30469;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-04-29 09:35:22;complet;dev_express;251.78
+252778951;F;1950-10-01;0;0;54096;Commercial;Panel Truck;yes;5;;Highly Urban/ Urban;2022-02-24 09:29:20;complet;dev_integral;317.55
+341162899;F;1965-10-24;0;0;0;Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-04-01 04:04:04;complet;dev_express;260.14
+624914462;F;1940-12-13;0;0;81474;Commercial;Pickup;no;3;13.0;Highly Urban/ Urban;2022-02-12 03:31:15;complet;dev_express;257.05
+547910569;F;1964-10-07;0;4;46214;Private;Van;yes;0;12.0;Highly Urban/ Urban;2022-04-19 19:52:57;complet;dev_integral;314.58
+69005880;M;1944-12-12;0;3;1344;Commercial;z_SUV;no;2;6.0;Highly Urban/ Urban;2022-02-06 22:10:32;complet;dev_premium;403.76
+100830732;F;1963-12-02;0;2;7313;Private;Sports Car;no;0;9.0;Highly Urban/ Urban;2022-01-07 04:46:30;complet;dev_integral;286.7
+923020250;F;1994-05-10;0;0;0;Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-03-19 01:46:03;complet;dev_premium;372.86
+1860885;F;1951-03-11;0;0;;Private;Pickup;no;0;;Highly Urban/ Urban;2022-03-10 21:24:19;complet;dev_integral;312.17
+932686219;F;1973-10-26;0;0;33522;Commercial;Pickup;yes;0;19.0;Highly Urban/ Urban;2022-05-08 21:30:12;complet;dev_integral;330.35
+736860175;F;1936-06-24;0;2;55262;Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-03-09 21:30:33;complet;dev_express;277.86
+278169212;M;1950-10-17;0;0;9619;Private;z_SUV;no;2;15.0;Highly Urban/ Urban;2022-04-20 18:29:34;complet;dev_express;262.75
+652872436;F;1943-05-21;0;0;100085;Commercial;Pickup;yes;3;1.0;Highly Urban/ Urban;2022-04-05 00:30:18;complet;dev_integral;309.76
+353028480;M;1975-07-03;0;1;87621;Private;z_SUV;no;4;9.0;Highly Urban/ Urban;2022-05-20 14:23:07;complet;dev_integral;286.59
+743964218;M;1959-08-02;0;1;9981;Private;z_SUV;no;1;6.0;Highly Urban/ Urban;2022-03-03 09:25:00;complet;dev_integral;281.18
+492542727;F;1954-04-15;1;3;15796;Private;z_SUV;no;2;1.0;Highly Urban/ Urban;2022-03-12 08:44:48;complet;dev_express;279.9
+699416315;F;1940-10-25;0;2;63695;Private;Sports Car;no;0;12.0;Highly Urban/ Urban;2022-01-06 12:56:42;complet;dev_express;250.4
+247903379;M;1995-12-20;0;0;;Commercial;Pickup;yes;7;4.0;Highly Urban/ Urban;2022-01-17 08:56:47;complet;dev_express;273.39
+431950127;F;1932-08-04;0;2;12236;Private;z_SUV;no;1;8.0;Highly Urban/ Urban;2022-03-04 00:51:12;complet;dev_integral;313.04
+598425831;F;1971-07-10;0;0;148168;Private;z_SUV;no;0;20.0;Highly Urban/ Urban;2022-02-28 08:01:27;complet;dev_premium;494.82
+45380209;M;1985-06-09;0;0;62486;Commercial;Van;no;0;4.0;Highly Urban/ Urban;2022-03-22 17:53:29;complet;dev_express;251.72
+504971762;F;1999-07-02;0;3;45828;Commercial;Minivan;no;0;10.0;Highly Urban/ Urban;2022-05-09 14:13:00;complet;dev_express;264.01
+423647201;F;1987-12-20;0;0;90468;Commercial;Pickup;no;0;;Highly Urban/ Urban;2022-03-11 14:38:24;complet;dev_integral;286.08
+898631869;F;1971-12-23;0;0;78374;Commercial;Van;yes;5;1.0;Highly Urban/ Urban;2022-02-19 23:44:36;complet;dev_integral;315.16
+141445656;F;1987-06-10;0;2;0;Private;Sports Car;no;2;8.0;Highly Urban/ Urban;2022-04-28 20:05:16;complet;dev_premium;462.31
+937542593;M;1996-04-06;0;0;162255;Private;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-03-01 15:58:26;complet;dev_integral;291.06
+592859964;M;1987-03-14;2;3;90991;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-01-17 02:58:37;complet;dev_integral;289.12
+627828331;M;1965-01-30;0;0;10376;Private;z_SUV;no;0;9.0;z_Highly Rural/ Rural;2022-03-12 07:57:05;complet;dev_premium;397.59
+459294600;M;1976-09-03;0;0;76778;Private;Sports Car;no;1;5.0;Highly Urban/ Urban;2022-04-14 03:21:10;complet;dev_express;265.08
+736971720;M;1990-01-04;0;0;86268;Commercial;Panel Truck;no;0;12.0;Highly Urban/ Urban;2022-02-17 11:06:56;complet;dev_express;253.09
+86772573;F;1965-02-14;0;0;50519;Private;Minivan;no;2;11.0;Highly Urban/ Urban;2022-04-19 19:04:55;complet;dev_integral;281.06
+857236178;M;1949-05-29;1;2;11559;Commercial;Pickup;no;0;5.0;z_Highly Rural/ Rural;2022-05-18 10:53:06;complet;dev_integral;289.84
+684927392;M;1937-05-02;0;0;66436;Commercial;Pickup;yes;1;12.0;z_Highly Rural/ Rural;2022-03-13 05:28:18;complet;dev_express;284.8
+493194995;F;2022-06-13;1;2;204668;Commercial;Van;yes;0;;Highly Urban/ Urban;2022-05-11 14:01:10;complet;dev_express;284.12
+634343179;F;2012-02-21;0;0;99247;Commercial;Panel Truck;no;1;;Highly Urban/ Urban;2022-01-11 02:15:32;complet;dev_premium;457.31
+231434550;F;2004-06-07;0;0;24411;Private;z_SUV;no;2;6.0;Highly Urban/ Urban;2022-05-09 11:12:39;complet;dev_integral;320.19
+668800586;F;1966-11-01;3;3;19502;Commercial;Minivan;no;6;1.0;Highly Urban/ Urban;2022-01-04 12:36:23;complet;dev_integral;321.29
+31882806;F;1968-09-15;0;2;10730;Private;z_SUV;no;7;6.0;Highly Urban/ Urban;2022-05-30 20:12:40;complet;dev_express;257.35
+207041439;M;1995-11-02;0;0;97916;Private;Minivan;yes;1;9.0;Highly Urban/ Urban;2022-03-06 00:29:49;complet;dev_express;258.32
+61087160;M;2000-09-15;0;2;39163;Private;z_SUV;no;7;4.0;Highly Urban/ Urban;2022-01-19 12:12:33;complet;dev_premium;487.49
+218098391;F;2017-10-17;0;1;52953;Private;Pickup;no;2;9.0;Highly Urban/ Urban;2022-04-20 02:39:03;complet;dev_integral;332.47
+960646647;M;1966-09-27;0;0;0;Private;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-05-24 17:45:20;complet;dev_express;261.61
+908029467;F;2002-04-21;0;1;0;Private;z_SUV;no;8;1.0;Highly Urban/ Urban;2022-03-26 13:13:06;complet;dev_express;279.84
+831157828;F;1947-01-14;0;0;11954;Private;z_SUV;no;1;8.0;Highly Urban/ Urban;2022-03-23 14:10:11;complet;dev_integral;308.28
+100208113;M;1995-08-06;0;0;102904;Commercial;Panel Truck;yes;0;18.0;Highly Urban/ Urban;2022-04-12 00:22:50;complet;dev_integral;283.25
+909479253;M;1994-06-09;0;0;150956;Private;Minivan;no;0;11.0;Highly Urban/ Urban;2022-04-15 13:43:31;complet;dev_integral;311.44
+603971301;F;1955-06-03;0;0;55727;Commercial;Pickup;yes;1;6.0;Highly Urban/ Urban;2022-04-20 01:02:27;complet;dev_express;254.57
+204546735;F;1952-12-14;0;0;24849;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-05-02 23:12:44;complet;dev_integral;318.83
+968439150;F;1956-01-20;0;3;16227;Private;Van;yes;6;1.0;Highly Urban/ Urban;2022-05-21 08:38:57;complet;dev_express;270.25
+128902374;F;1999-02-07;0;3;66841;Private;z_SUV;no;0;;Highly Urban/ Urban;2022-03-01 18:29:52;complet;dev_express;280.86
+602229598;F;1971-02-03;2;2;64957;Private;Minivan;no;3;7.0;Highly Urban/ Urban;2022-05-10 11:14:08;complet;dev_premium;474.7
+779624178;F;1952-01-18;0;0;101637;Private;Sports Car;no;1;10.0;Highly Urban/ Urban;2022-03-06 05:10:08;complet;dev_integral;314.87
+578135332;F;2019-10-26;0;0;19270;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-05-26 01:21:38;complet;dev_integral;298.09
+844879272;F;2001-11-10;1;2;26555;Private;Sports Car;no;1;1.0;Highly Urban/ Urban;2022-04-25 09:36:01;complet;dev_integral;292.34
+922967381;M;1963-08-14;0;0;38957;Commercial;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-05-29 19:59:25;complet;dev_premium;325.92
+826845293;M;2015-01-28;0;2;33392;Private;Sports Car;no;5;10.0;Highly Urban/ Urban;2022-02-03 15:04:52;complet;dev_express;260.98
+462892636;M;1995-08-27;0;2;33571;Commercial;Minivan;no;0;8.0;Highly Urban/ Urban;2022-05-16 00:02:55;complet;dev_express;273.65
+195722546;F;1965-01-31;1;3;68330;Private;z_SUV;no;1;10.0;Highly Urban/ Urban;2022-05-15 09:25:14;complet;dev_express;269.08
+335375976;M;1949-12-23;0;1;62361;Private;z_SUV;no;2;6.0;Highly Urban/ Urban;2022-05-28 03:24:40;complet;dev_express;266.44
+911685716;F;1948-03-19;0;0;18244;Commercial;Pickup;yes;2;11.0;z_Highly Rural/ Rural;2022-03-27 17:26:09;complet;dev_integral;283.43
+59670547;M;1973-10-26;0;0;30360;Private;z_SUV;no;4;1.0;Highly Urban/ Urban;2022-02-03 09:48:51;complet;dev_integral;334.71
+631212058;F;2015-04-11;0;0;114547;Commercial;Panel Truck;yes;4;8.0;Highly Urban/ Urban;2022-05-06 15:53:44;complet;dev_premium;527.56
+640880824;F;2002-09-13;0;0;29079;Private;Minivan;no;3;;z_Highly Rural/ Rural;2022-05-12 06:56:40;complet;dev_premium;386.65
+705448628;F;1951-09-19;0;0;80021;Commercial;Van;yes;1;13.0;Highly Urban/ Urban;2022-01-15 18:39:57;complet;dev_integral;297.77
+155093200;M;2010-05-13;2;3;18154;Commercial;Pickup;yes;1;1.0;Highly Urban/ Urban;2022-01-24 13:18:40;complet;dev_integral;332.21
+715183798;M;1974-10-01;0;0;178356;Private;Pickup;no;0;19.0;Highly Urban/ Urban;2022-03-17 06:56:10;complet;dev_integral;327.59
+45398288;M;1931-12-03;0;0;0;Private;z_SUV;no;1;9.0;z_Highly Rural/ Rural;2022-03-29 02:50:07;complet;dev_integral;302.86
+173124759;M;2004-08-28;0;0;64032;Private;Pickup;yes;0;;Highly Urban/ Urban;2022-05-10 07:12:09;complet;dev_express;273.02
+423712104;F;1963-08-13;0;0;113886;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-03-14 05:41:38;complet;dev_express;263.93
+102863719;F;1948-11-21;0;0;32073;Private;Pickup;no;0;10.0;z_Highly Rural/ Rural;2022-05-31 13:57:15;complet;dev_premium;522.24
+356334131;F;2017-03-15;0;0;149937;Private;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-05-10 23:39:15;complet;dev_integral;332.65
+937573684;F;1965-03-14;0;3;33043;Commercial;Pickup;no;0;1.0;Highly Urban/ Urban;2022-05-14 00:58:28;complet;dev_express;253.61
+361438642;F;1937-12-24;0;0;111961;Commercial;Van;no;2;12.0;Highly Urban/ Urban;2022-05-07 14:05:04;complet;dev_express;252.16
+10755990;F;1970-04-25;0;0;54639;Private;Pickup;yes;1;1.0;z_Highly Rural/ Rural;2022-05-17 22:41:48;complet;dev_integral;329.41
+609374475;M;1971-08-19;0;0;5292;Commercial;Minivan;yes;0;8.0;Highly Urban/ Urban;2022-03-17 06:05:38;complet;dev_integral;298.3
+102262070;F;1978-12-21;0;0;146882;Commercial;Van;yes;3;10.0;Highly Urban/ Urban;2022-03-15 03:25:16;complet;dev_premium;430.52
+877277908;F;1971-06-07;0;0;149854;Private;Minivan;no;0;13.0;Highly Urban/ Urban;2022-03-30 17:24:37;complet;dev_express;272.23
+961642063;F;1964-11-27;0;0;75210;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-21 20:42:50;complet;dev_express;263.8
+64979459;M;1961-03-09;0;3;5768;Commercial;z_SUV;no;2;1.0;Highly Urban/ Urban;2022-01-18 19:29:14;complet;dev_express;259.98
+834563499;F;2005-04-21;0;0;4216;Commercial;Minivan;yes;1;17.0;Highly Urban/ Urban;2022-04-19 21:43:17;complet;dev_integral;286.67
+580997822;M;1966-03-20;0;0;36978;Commercial;Pickup;yes;0;7.0;z_Highly Rural/ Rural;2022-05-18 13:33:24;complet;dev_premium;372.34
+65962225;M;1967-02-17;0;0;78387;Private;Minivan;no;0;21.0;Highly Urban/ Urban;2022-04-04 15:50:44;complet;dev_express;268.0
+181750125;M;1968-06-27;0;2;135035;Private;Minivan;yes;0;8.0;Highly Urban/ Urban;2022-03-25 07:11:37;complet;dev_integral;319.24
+535310073;F;1962-09-05;0;2;79557;Commercial;Minivan;no;7;1.0;Highly Urban/ Urban;2022-03-23 12:28:36;complet;dev_integral;282.89
+777827288;F;1989-11-13;0;0;105960;Commercial;Panel Truck;yes;0;11.0;Highly Urban/ Urban;2022-03-25 13:33:27;complet;dev_express;275.68
+685041790;M;1994-05-25;0;0;;Private;Minivan;yes;0;22.0;Highly Urban/ Urban;2022-02-23 20:23:47;complet;dev_integral;334.94
+283273689;F;1940-12-16;0;0;128083;Commercial;z_SUV;no;4;10.0;Highly Urban/ Urban;2022-04-08 12:44:29;complet;dev_premium;517.07
+542113653;M;1954-08-11;0;0;46948;Private;Minivan;no;0;;Highly Urban/ Urban;2022-02-25 05:54:55;complet;dev_integral;336.76
+521446300;F;1955-11-10;0;0;39907;Private;z_SUV;no;2;8.0;Highly Urban/ Urban;2022-02-07 00:44:53;complet;dev_integral;285.04
+757021407;M;2019-02-01;1;2;0;Commercial;Minivan;no;0;4.0;z_Highly Rural/ Rural;2022-04-01 01:13:47;complet;dev_integral;315.15
+393735825;M;2007-02-23;0;0;109533;Private;Minivan;no;3;;Highly Urban/ Urban;2022-05-25 18:59:56;complet;dev_express;269.36
+316450995;F;1943-02-08;0;0;29879;Private;z_SUV;no;5;7.0;Highly Urban/ Urban;2022-04-21 16:29:21;complet;dev_express;261.39
+943420759;F;1964-01-01;0;0;22741;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-05-31 05:19:06;complet;dev_premium;341.99
+31898590;M;1991-08-14;0;0;;Commercial;Pickup;no;0;1.0;Highly Urban/ Urban;2022-02-19 08:11:18;complet;dev_express;271.28
+335621030;F;1963-08-19;4;4;48622;Private;z_SUV;no;9;6.0;Highly Urban/ Urban;2022-05-23 14:29:35;complet;dev_integral;332.42
+705048911;M;1939-04-18;0;2;89607;Commercial;Pickup;no;0;4.0;z_Highly Rural/ Rural;2022-02-24 11:57:19;complet;dev_integral;322.96
+406648980;M;1941-07-11;0;1;51551;Private;Sports Car;no;0;;Highly Urban/ Urban;2022-05-28 16:47:33;complet;dev_express;277.92
+593790135;F;1946-06-05;0;0;34920;Private;Minivan;no;0;9.0;Highly Urban/ Urban;2022-05-18 20:48:36;complet;dev_express;251.69
+187505859;M;1969-07-22;0;1;35475;Commercial;Panel Truck;yes;4;1.0;Highly Urban/ Urban;2022-03-12 12:59:08;complet;dev_express;284.6
+669524768;M;1971-01-30;1;2;53245;Commercial;Pickup;yes;2;8.0;z_Highly Rural/ Rural;2022-03-06 13:23:43;complet;dev_express;262.22
+978491576;M;1934-04-07;0;0;;Commercial;Pickup;yes;3;1.0;Highly Urban/ Urban;2022-03-04 01:37:05;complet;dev_express;283.8
+720116173;M;1952-06-04;0;3;49098;Commercial;Pickup;yes;2;13.0;z_Highly Rural/ Rural;2022-05-10 23:21:25;complet;dev_premium;393.63
+154342859;M;1977-02-17;0;3;;Private;Pickup;yes;3;9.0;Highly Urban/ Urban;2022-04-08 22:16:19;complet;dev_express;280.57
+495268398;F;1965-07-04;0;0;53329;Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-01-20 06:01:27;complet;dev_express;268.71
+29304624;F;1957-12-03;0;2;;Private;Minivan;yes;2;;z_Highly Rural/ Rural;2022-01-06 05:05:28;complet;dev_express;253.2
+720443111;F;1987-02-01;0;1;0;Private;Sports Car;no;2;8.0;z_Highly Rural/ Rural;2022-01-07 02:17:29;complet;dev_integral;289.94
+716341380;F;1974-08-02;0;0;22613;Private;Pickup;yes;1;1.0;Highly Urban/ Urban;2022-05-04 21:01:36;complet;dev_express;284.96
+677580632;M;2018-08-07;0;0;145735;Private;Pickup;no;2;15.0;Highly Urban/ Urban;2022-05-05 07:55:20;complet;dev_integral;332.61
+244270992;F;2019-10-26;3;3;85081;Private;Sports Car;no;7;18.0;Highly Urban/ Urban;2022-03-14 00:41:34;complet;dev_express;275.26
+12685449;M;1935-06-30;0;0;74719;Private;Minivan;no;2;12.0;Highly Urban/ Urban;2022-02-13 12:27:51;complet;dev_express;251.14
+492343813;M;1937-10-19;0;0;39193;Private;Minivan;yes;0;17.0;z_Highly Rural/ Rural;2022-03-27 16:30:18;complet;dev_integral;306.94
+232977644;F;1967-11-29;0;0;61964;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-02-02 14:25:47;complet;dev_integral;301.48
+42455096;F;1940-12-24;1;1;77698;Commercial;Panel Truck;yes;0;14.0;z_Highly Rural/ Rural;2022-05-22 06:17:46;complet;dev_integral;310.27
+22219151;M;1965-05-09;0;0;33648;Private;Sports Car;no;2;9.0;Highly Urban/ Urban;2022-02-03 18:51:28;complet;dev_integral;281.05
+932443844;M;1996-05-05;0;0;30588;Private;z_SUV;no;3;7.0;Highly Urban/ Urban;2022-04-17 11:05:04;complet;dev_express;251.67
+163534580;F;1955-11-29;0;0;64106;Private;Sports Car;no;0;9.0;Highly Urban/ Urban;2022-01-30 11:38:07;complet;dev_integral;284.24
+141092115;M;1951-05-16;0;0;183558;Private;z_SUV;no;3;12.0;Highly Urban/ Urban;2022-01-04 23:37:25;complet;dev_integral;282.57
+765985821;F;1994-11-30;0;2;49098;Private;Pickup;yes;2;11.0;z_Highly Rural/ Rural;2022-02-20 01:38:02;complet;dev_premium;469.2
+585235036;M;1986-11-30;0;0;79078;Private;z_SUV;no;0;18.0;Highly Urban/ Urban;2022-03-22 18:25:21;complet;dev_integral;320.68
+534146705;M;1952-03-23;0;0;;Private;Sports Car;no;0;20.0;Highly Urban/ Urban;2022-04-14 03:08:54;complet;dev_integral;304.81
+855355945;M;1938-08-28;0;0;25871;Commercial;z_SUV;no;4;9.0;Highly Urban/ Urban;2022-03-28 18:19:41;complet;dev_integral;304.92
+462540536;M;1978-10-15;0;0;44812;Commercial;z_SUV;no;0;5.0;Highly Urban/ Urban;2022-01-15 01:30:33;complet;dev_integral;309.89
+426052953;M;1932-04-29;1;2;48680;Commercial;Pickup;no;1;7.0;Highly Urban/ Urban;2022-03-30 17:09:10;complet;dev_express;256.82
+973329537;M;2008-04-07;0;0;;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-04-03 06:29:36;complet;dev_express;278.42
+161886800;M;2019-11-05;0;1;71512;Private;Minivan;no;0;;Highly Urban/ Urban;2022-04-11 23:33:50;complet;dev_integral;327.03
+131349512;F;1958-06-15;0;0;1022;Commercial;Panel Truck;yes;0;;Highly Urban/ Urban;2022-05-18 18:08:52;complet;dev_integral;305.08
+140523986;M;1934-11-23;0;0;3113;Private;Pickup;yes;4;1.0;Highly Urban/ Urban;2022-04-02 09:07:34;complet;dev_integral;322.35
+279475690;M;2022-06-09;0;0;54795;Private;Minivan;yes;0;19.0;Highly Urban/ Urban;2022-03-09 14:39:32;complet;dev_express;266.19
+83414099;M;2006-05-14;0;0;0;Private;Sports Car;no;0;10.0;Highly Urban/ Urban;2022-04-13 11:26:04;complet;dev_integral;338.0
+859605528;M;1989-08-07;0;0;40612;Commercial;Van;yes;3;18.0;Highly Urban/ Urban;2022-03-14 13:17:00;complet;dev_integral;335.82
+326717591;M;1972-04-24;0;2;22683;Private;Minivan;no;1;10.0;Highly Urban/ Urban;2022-05-12 14:47:57;complet;dev_express;284.54
+20506772;F;2000-05-18;0;2;19507;Private;Van;no;0;1.0;Highly Urban/ Urban;2022-01-01 20:24:55;complet;dev_integral;291.93
+818621338;M;1998-11-30;2;3;83585;Private;z_SUV;no;4;16.0;Highly Urban/ Urban;2022-05-25 20:36:27;complet;dev_express;254.31
+379126545;F;1967-10-27;0;0;3813;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-05-16 05:07:27;complet;dev_express;265.89
+905237668;M;2010-03-01;1;2;10678;Private;Pickup;no;1;7.0;Highly Urban/ Urban;2022-02-27 02:15:53;complet;dev_integral;308.37
+449849353;F;1938-09-23;0;0;195139;Private;Pickup;no;0;15.0;Highly Urban/ Urban;2022-03-09 09:41:41;complet;dev_integral;299.31
+124037098;M;1993-03-17;0;0;66054;Private;z_SUV;no;4;13.0;Highly Urban/ Urban;2022-05-31 15:49:28;complet;dev_express;274.77
+412792711;F;1962-03-03;0;0;150401;Private;Minivan;no;0;14.0;Highly Urban/ Urban;2022-03-02 14:10:16;complet;dev_premium;352.18
+499317554;F;2002-12-06;0;1;86321;Commercial;Panel Truck;yes;0;24.0;Highly Urban/ Urban;2022-04-24 21:41:36;complet;dev_premium;519.58
+235531258;F;1957-07-10;0;0;0;Commercial;Pickup;no;3;10.0;Highly Urban/ Urban;2022-01-21 07:59:13;complet;dev_express;284.6
+773852602;F;1951-08-23;0;0;77030;Private;z_SUV;no;4;13.0;Highly Urban/ Urban;2022-03-07 19:35:27;complet;dev_express;264.65
+539484340;F;2016-03-27;0;0;0;Private;Pickup;yes;0;17.0;z_Highly Rural/ Rural;2022-05-31 11:14:25;complet;dev_express;284.87
+218585066;M;1939-09-06;0;3;75385;Commercial;Van;yes;4;8.0;Highly Urban/ Urban;2022-05-13 02:36:21;complet;dev_integral;297.92
+767643193;F;1960-08-05;0;0;73241;Private;Pickup;yes;0;15.0;Highly Urban/ Urban;2022-05-23 03:01:32;complet;dev_integral;291.25
+661723256;M;2007-05-03;0;0;0;Commercial;Minivan;no;1;10.0;Highly Urban/ Urban;2022-05-11 03:02:56;complet;dev_express;284.38
+456696568;M;1967-02-16;0;0;0;Private;Minivan;yes;3;1.0;Highly Urban/ Urban;2022-04-05 00:02:42;complet;dev_integral;332.26
+618184542;M;1978-09-09;0;0;91245;Private;z_SUV;no;8;1.0;Highly Urban/ Urban;2022-05-27 18:51:41;complet;dev_integral;319.56
+956524459;M;1969-08-03;0;2;33538;Private;Minivan;yes;2;1.0;Highly Urban/ Urban;2022-04-20 23:17:36;complet;dev_premium;399.21
+530069868;M;1974-06-19;0;2;0;Commercial;Panel Truck;yes;0;10.0;Highly Urban/ Urban;2022-01-25 19:36:43;complet;dev_express;250.8
+184537318;M;1969-08-23;0;2;64632;Private;Minivan;yes;1;13.0;Highly Urban/ Urban;2022-04-08 01:19:47;complet;dev_express;265.74
+240367305;M;1935-05-24;0;0;0;Private;Minivan;yes;0;7.0;z_Highly Rural/ Rural;2022-02-18 12:19:11;complet;dev_integral;327.38
+869159324;F;1986-02-15;0;0;96299;Commercial;Minivan;no;0;;Highly Urban/ Urban;2022-01-12 18:29:46;complet;dev_integral;319.03
+159682229;M;1936-07-03;0;0;0;Private;Sports Car;no;2;1.0;Highly Urban/ Urban;2022-01-10 15:03:43;complet;dev_integral;322.09
+318906935;M;1932-07-04;2;2;73851;Private;z_SUV;no;1;5.0;Highly Urban/ Urban;2022-05-10 11:42:11;complet;dev_premium;442.11
+555695397;M;1936-11-21;0;1;;Private;z_SUV;no;0;10.0;z_Highly Rural/ Rural;2022-03-23 10:29:31;complet;dev_premium;435.01
+393037472;M;1961-11-26;0;0;11069;Private;z_SUV;no;5;3.0;Highly Urban/ Urban;2022-02-19 03:28:57;complet;dev_integral;280.5
+855884573;M;1987-02-13;2;2;;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-04-27 20:44:46;complet;dev_express;263.57
+57270211;F;1945-09-03;0;0;26222;Private;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-04-23 04:43:46;complet;dev_express;278.58
+686534779;F;1974-03-12;0;0;143242;Commercial;Panel Truck;yes;5;10.0;Highly Urban/ Urban;2022-05-21 08:25:37;complet;dev_integral;310.01
+950352670;M;2018-06-06;0;0;100205;Private;Van;yes;6;;Highly Urban/ Urban;2022-01-06 08:39:20;complet;dev_express;279.45
+793010743;M;2020-03-31;0;4;85727;Private;z_SUV;no;0;14.0;Highly Urban/ Urban;2022-04-08 00:39:02;complet;dev_integral;313.53
+565148583;F;1941-12-29;0;0;57323;Private;z_SUV;no;0;6.0;Highly Urban/ Urban;2022-04-25 11:54:45;complet;dev_integral;337.38
+728106713;M;1938-10-16;0;0;42326;Private;Sports Car;no;1;19.0;Highly Urban/ Urban;2022-01-09 11:28:13;complet;dev_express;256.27
+989631917;M;1982-08-10;0;0;0;Private;Minivan;yes;2;6.0;z_Highly Rural/ Rural;2022-02-05 05:34:09;complet;dev_integral;321.63
+155240688;M;1935-02-14;0;0;177832;Private;Minivan;yes;2;14.0;Highly Urban/ Urban;2022-03-01 11:59:23;complet;dev_integral;299.44
+740230736;M;1960-04-26;0;0;0;Private;Sports Car;no;2;20.0;z_Highly Rural/ Rural;2022-02-14 22:46:20;complet;dev_premium;405.93
+936978233;F;1993-09-25;0;1;82795;Commercial;Pickup;yes;7;7.0;Highly Urban/ Urban;2022-02-13 06:18:22;complet;dev_integral;295.02
+944945563;M;1966-10-21;1;2;;Commercial;Pickup;yes;2;1.0;z_Highly Rural/ Rural;2022-03-11 21:23:12;complet;dev_premium;362.49
+109837109;M;1965-03-16;1;2;75605;Commercial;z_SUV;no;1;13.0;Highly Urban/ Urban;2022-01-12 21:51:52;complet;dev_express;260.09
+146613590;F;1963-02-02;2;3;0;Private;Minivan;no;0;13.0;Highly Urban/ Urban;2022-03-10 05:03:17;complet;dev_integral;306.89
+703813576;M;1959-04-24;0;0;271813;Commercial;Panel Truck;yes;0;6.0;Highly Urban/ Urban;2022-05-10 21:14:19;complet;dev_express;270.67
+688951353;F;2013-08-27;0;0;79082;Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;2022-01-11 06:26:38;complet;dev_premium;476.65
+402836695;M;1992-04-10;0;0;;Private;Sports Car;no;0;7.0;z_Highly Rural/ Rural;2022-05-05 14:13:13;complet;dev_premium;456.1
+977521421;F;1966-03-14;0;3;69620;Private;Minivan;yes;1;15.0;Highly Urban/ Urban;2022-02-21 10:07:06;complet;dev_integral;314.81
+912953961;M;1970-11-28;0;0;68471;Commercial;Van;yes;0;13.0;Highly Urban/ Urban;2022-04-07 18:39:37;complet;dev_premium;483.85
+930441156;M;1954-06-21;0;0;61790;Commercial;Minivan;no;2;7.0;Highly Urban/ Urban;2022-02-07 05:05:07;complet;dev_integral;288.31
+847136592;F;2019-04-23;0;1;34192;Commercial;z_SUV;no;0;7.0;z_Highly Rural/ Rural;2022-05-28 05:50:47;complet;dev_express;276.68
+811501994;M;1959-08-22;0;0;82198;Private;Minivan;no;0;7.0;Highly Urban/ Urban;2022-03-03 11:24:14;complet;dev_integral;313.96
+302263778;M;2000-08-07;0;4;129682;Private;Minivan;yes;0;16.0;Highly Urban/ Urban;2022-02-07 03:36:40;complet;dev_integral;310.68
+725081018;F;1987-08-13;0;0;84401;Private;z_SUV;no;0;15.0;z_Highly Rural/ Rural;2022-01-07 05:37:50;complet;dev_premium;321.04
+844404167;M;2017-08-05;0;0;33575;Commercial;Minivan;no;0;7.0;Highly Urban/ Urban;2022-02-26 03:44:35;complet;dev_premium;485.89
+883538003;M;2008-04-02;0;0;152567;Private;Van;yes;0;18.0;Highly Urban/ Urban;2022-04-07 19:50:06;complet;dev_integral;309.03
+599858191;F;1951-12-02;0;0;170381;Private;Sports Car;no;4;21.0;Highly Urban/ Urban;2022-03-22 11:12:41;complet;dev_express;250.78
+582432313;F;2010-08-25;0;0;91209;Private;z_SUV;no;1;13.0;z_Highly Rural/ Rural;2022-01-12 10:58:34;complet;dev_integral;317.0
+282607316;M;1968-11-06;1;2;38563;Private;Sports Car;no;0;11.0;Highly Urban/ Urban;2022-03-10 08:37:49;complet;dev_integral;315.83
+848872018;F;2017-12-24;0;0;46814;Commercial;Sports Car;no;2;;Highly Urban/ Urban;2022-02-11 07:56:33;complet;dev_integral;294.5
+362882890;F;1994-02-08;0;0;94833;Private;Minivan;yes;2;;z_Highly Rural/ Rural;2022-04-17 04:32:21;complet;dev_express;253.02
+979691393;M;1954-05-01;0;3;;Private;Minivan;yes;3;5.0;Highly Urban/ Urban;2022-05-20 14:45:32;complet;dev_integral;330.97
+167293619;F;2005-04-24;0;0;183316;Commercial;Panel Truck;yes;0;17.0;z_Highly Rural/ Rural;2022-01-08 16:09:39;complet;dev_express;254.26
+541316894;M;2005-04-29;0;0;94046;Private;Sports Car;no;3;14.0;Highly Urban/ Urban;2022-03-14 14:20:20;complet;dev_express;268.8
+454751032;M;2003-02-26;0;0;106880;Private;Pickup;no;0;10.0;Highly Urban/ Urban;2022-05-23 23:35:14;complet;dev_integral;294.98
+667221816;M;2004-08-27;0;0;59699;Commercial;Sports Car;no;1;11.0;Highly Urban/ Urban;2022-04-09 21:55:44;complet;dev_integral;313.77
+447265219;M;2005-10-28;0;0;48058;Private;Van;no;0;18.0;Highly Urban/ Urban;2022-04-28 17:36:46;complet;dev_integral;314.4
+169244879;M;2008-04-15;0;0;33255;Private;Pickup;no;3;1.0;z_Highly Rural/ Rural;2022-02-17 09:12:42;complet;dev_premium;530.51
+755748771;F;1960-04-04;0;0;117644;Private;Minivan;no;2;11.0;Highly Urban/ Urban;2022-04-16 00:49:13;complet;dev_express;276.22
+603486842;M;2012-07-24;0;0;203751;Private;Minivan;no;0;13.0;Highly Urban/ Urban;2022-04-14 05:42:42;complet;dev_express;275.92
+50401499;M;1985-12-03;0;0;80198;Commercial;Minivan;yes;0;9.0;Highly Urban/ Urban;2022-04-26 08:50:42;complet;dev_premium;445.25
+804950145;M;1977-10-05;0;0;48517;Private;Sports Car;no;4;1.0;Highly Urban/ Urban;2022-04-24 02:36:25;complet;dev_integral;282.89
+681388843;M;2004-10-08;0;0;54486;Private;Pickup;yes;0;8.0;Highly Urban/ Urban;2022-03-03 12:44:04;complet;dev_integral;312.17
+62643113;M;2020-01-28;0;0;126865;Private;Minivan;yes;1;15.0;Highly Urban/ Urban;2022-03-18 03:03:17;complet;dev_integral;334.33
+504537312;F;1931-08-14;0;0;58643;Private;Sports Car;no;2;8.0;Highly Urban/ Urban;2022-04-28 02:43:06;complet;dev_integral;281.56
+924606887;F;2007-03-22;0;2;93258;Commercial;Van;no;1;7.0;Highly Urban/ Urban;2022-03-22 08:53:53;complet;dev_express;282.69
+627950237;F;2003-06-25;2;3;65598;Commercial;Pickup;no;4;10.0;Highly Urban/ Urban;2022-02-08 19:17:02;complet;dev_integral;312.57
+703216044;F;1997-05-09;0;0;90526;Commercial;Panel Truck;no;0;;z_Highly Rural/ Rural;2022-02-08 07:38:08;complet;dev_integral;327.35
+160740784;F;1957-05-18;0;0;29016;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-02-07 21:25:28;complet;dev_integral;286.86
+192315205;F;1950-10-21;0;1;63936;Commercial;Pickup;no;2;1.0;Highly Urban/ Urban;2022-03-22 09:48:58;complet;dev_express;259.25
+897103108;F;1940-04-07;0;0;33193;Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;2022-04-13 20:56:49;complet;dev_premium;374.69
+610200368;M;1956-08-13;1;1;0;Private;Sports Car;no;4;1.0;Highly Urban/ Urban;2022-02-16 18:11:28;complet;dev_premium;497.76
+792000183;F;2008-08-26;0;0;7784;Private;Minivan;yes;0;7.0;Highly Urban/ Urban;2022-03-01 17:16:32;complet;dev_integral;322.13
+493243717;F;1993-05-18;0;0;39490;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-01-17 23:45:07;complet;dev_integral;291.65
+274597013;M;1967-05-02;1;2;8117;Private;Minivan;yes;2;7.0;z_Highly Rural/ Rural;2022-05-21 16:11:14;complet;dev_integral;333.22
+596752979;F;1976-06-16;0;0;157531;Private;Minivan;no;6;17.0;Highly Urban/ Urban;2022-04-17 06:36:00;complet;dev_premium;347.46
+748612029;F;2004-12-29;0;0;78021;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-02-13 20:08:36;complet;dev_integral;305.15
+488798803;M;1951-04-11;0;1;129132;Private;Minivan;no;0;25.0;Highly Urban/ Urban;2022-03-08 23:49:55;complet;dev_express;281.83
+318963239;M;1966-02-25;0;0;90635;Commercial;Minivan;no;1;9.0;z_Highly Rural/ Rural;2022-05-01 01:21:14;complet;dev_integral;307.17
+459075283;M;1996-03-20;0;0;181620;Commercial;Pickup;no;0;16.0;Highly Urban/ Urban;2022-02-10 01:30:27;complet;dev_integral;316.09
+454399686;F;1994-08-30;0;1;85664;Private;Sports Car;no;0;;Highly Urban/ Urban;2022-03-17 21:10:27;complet;dev_integral;320.72
+329198624;M;1960-02-03;0;0;29702;Commercial;z_SUV;no;1;8.0;z_Highly Rural/ Rural;2022-02-10 16:25:10;complet;dev_premium;341.44
+573744666;F;1964-10-29;0;0;51822;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-16 23:49:30;complet;dev_integral;308.62
+577993978;M;1956-05-08;0;2;47621;Commercial;Minivan;no;6;1.0;Highly Urban/ Urban;2022-01-05 00:48:05;complet;dev_integral;297.23
+407556242;F;1982-11-27;1;2;290846;Commercial;Panel Truck;no;0;18.0;Highly Urban/ Urban;2022-01-11 17:35:07;complet;dev_vip;862.45
+737722324;M;1968-08-11;0;4;54488;Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-03-11 05:31:41;complet;dev_integral;310.5
+930187847;F;1947-09-09;0;0;20635;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-01-10 23:47:26;complet;dev_integral;317.36
+251992241;M;1969-06-01;1;2;25513;Commercial;Van;yes;1;1.0;Highly Urban/ Urban;2022-05-15 02:01:28;complet;dev_integral;284.71
+917731732;F;1953-05-20;1;1;;Private;z_SUV;no;2;6.0;z_Highly Rural/ Rural;2022-01-03 03:03:08;complet;dev_integral;321.42
+607046916;F;1951-02-12;0;0;134152;Private;Minivan;yes;1;11.0;Highly Urban/ Urban;2022-01-22 15:37:29;complet;dev_integral;333.28
+442991746;F;1945-08-07;0;0;24713;Commercial;Pickup;no;1;4.0;Highly Urban/ Urban;2022-04-03 02:13:34;complet;dev_premium;399.35
+978503862;F;1997-01-10;0;0;34734;Commercial;Pickup;yes;4;14.0;z_Highly Rural/ Rural;2022-03-15 03:15:04;complet;dev_integral;314.61
+833942385;M;1949-01-22;0;0;2916;Private;Van;no;2;22.0;z_Highly Rural/ Rural;2022-05-11 04:46:13;complet;dev_vip;923.71
+738856598;M;1971-08-21;0;1;66508;Private;Minivan;no;5;16.0;Highly Urban/ Urban;2022-02-20 07:23:01;complet;dev_premium;503.89
+752304401;M;1979-04-29;0;0;37611;Private;Sports Car;no;0;6.0;Highly Urban/ Urban;2022-03-07 13:13:58;complet;dev_integral;339.17
+98293286;M;1980-11-21;1;2;119354;Commercial;Pickup;yes;4;18.0;Highly Urban/ Urban;2022-04-11 09:32:06;complet;dev_integral;316.56
+80263404;M;1947-10-05;1;2;8928;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-21 11:49:46;complet;dev_premium;547.81
+140971425;M;2017-12-25;0;0;66524;Private;Minivan;yes;0;12.0;Highly Urban/ Urban;2022-03-22 17:47:29;complet;dev_integral;305.47
+365196787;F;1972-01-04;0;0;45215;Commercial;Minivan;no;4;13.0;Highly Urban/ Urban;2022-04-11 05:16:58;complet;dev_integral;330.1
+173389804;F;2014-03-19;0;0;30319;Private;z_SUV;no;2;1.0;Highly Urban/ Urban;2022-01-17 13:39:09;complet;dev_integral;327.18
+59878421;M;2001-06-24;2;3;106140;Private;z_SUV;no;4;15.0;Highly Urban/ Urban;2022-04-08 10:46:40;complet;dev_integral;318.08
+848354716;F;2003-01-13;0;3;12854;Commercial;z_SUV;no;3;8.0;z_Highly Rural/ Rural;2022-05-10 07:15:08;complet;dev_express;253.4
+441256216;M;1986-05-15;0;4;15292;Private;z_SUV;no;1;1.0;z_Highly Rural/ Rural;2022-02-23 18:30:28;complet;dev_integral;298.94
+499584399;M;1956-09-13;0;2;67730;Private;Pickup;no;1;1.0;z_Highly Rural/ Rural;2022-04-02 18:10:44;complet;dev_express;268.72
+767110493;F;1979-04-12;0;0;57782;Commercial;Pickup;no;1;6.0;Highly Urban/ Urban;2022-02-15 10:36:10;complet;dev_integral;292.91
+910942216;M;1943-12-21;0;0;21267;Commercial;Minivan;yes;0;1.0;z_Highly Rural/ Rural;2022-01-08 08:43:16;complet;dev_express;254.43
+850354716;M;1938-03-27;0;2;86997;Commercial;Pickup;no;4;16.0;Highly Urban/ Urban;2022-03-24 03:47:30;complet;dev_integral;321.85
+158766557;F;1959-02-17;0;2;65102;Commercial;z_SUV;no;5;11.0;Highly Urban/ Urban;2022-05-24 19:47:02;complet;dev_integral;291.28
+128167873;F;1991-02-07;0;0;58319;Private;Minivan;yes;5;15.0;Highly Urban/ Urban;2022-01-17 11:38:41;complet;dev_integral;291.34
+706649281;M;1953-10-25;2;4;65801;Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;2022-03-17 13:43:55;complet;dev_integral;287.22
+10755990;M;1998-07-12;0;0;54639;Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;2022-03-18 08:18:42;complet;dev_integral;321.81
+339263186;F;2013-01-29;1;1;35120;Commercial;Van;no;1;5.0;Highly Urban/ Urban;2022-01-05 16:14:35;complet;dev_express;257.55
+212828205;M;2002-01-10;0;0;127129;Commercial;Van;yes;0;5.0;Highly Urban/ Urban;2022-05-13 22:19:50;complet;dev_premium;390.86
+541328140;M;1953-03-02;0;0;28123;Private;z_SUV;no;0;8.0;z_Highly Rural/ Rural;2022-01-14 17:48:47;complet;dev_express;263.51
+113928673;F;1955-02-01;0;0;30111;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-01-16 03:47:15;complet;dev_premium;470.77
+773276018;F;1988-07-12;0;1;35681;Commercial;z_SUV;no;1;6.0;Highly Urban/ Urban;2022-04-13 12:18:53;complet;dev_integral;304.74
+295508006;F;2019-11-08;0;0;81389;Private;z_SUV;no;0;11.0;Highly Urban/ Urban;2022-03-09 00:05:26;complet;dev_express;257.0
+333566924;M;1957-09-14;0;0;118753;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-03-15 22:50:48;complet;dev_express;257.16
+599212303;M;1959-02-04;0;0;86159;Commercial;Van;yes;2;8.0;z_Highly Rural/ Rural;2022-02-07 07:14:19;complet;dev_integral;320.07
+412455186;M;1945-09-05;0;0;65629;Commercial;Minivan;no;0;3.0;Highly Urban/ Urban;2022-03-08 11:24:19;complet;dev_express;262.25
+994969966;F;1995-10-06;0;1;3355;Commercial;Pickup;yes;0;5.0;Highly Urban/ Urban;2022-01-07 08:04:44;complet;dev_premium;424.77
+23033371;M;1977-04-07;0;0;32603;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-04-13 05:45:17;complet;dev_premium;428.63
+779624178;M;1943-11-27;0;0;20046;Private;Minivan;no;0;20.0;Highly Urban/ Urban;2022-05-30 04:03:38;complet;dev_integral;339.91
+419897982;F;2018-02-09;0;0;55977;Commercial;Pickup;yes;4;8.0;Highly Urban/ Urban;2022-03-10 05:51:11;complet;dev_premium;474.78
+699856275;F;1982-10-26;0;0;86810;Private;z_SUV;no;1;8.0;Highly Urban/ Urban;2022-05-02 04:51:14;complet;dev_express;253.37
+878765573;F;1973-07-07;0;0;38392;Private;Pickup;yes;2;1.0;Highly Urban/ Urban;2022-05-04 19:49:19;complet;dev_express;265.76
+303183248;M;2016-09-14;0;0;0;Private;Minivan;no;2;12.0;Highly Urban/ Urban;2022-05-17 09:44:30;complet;dev_express;262.33
+908963733;M;1972-01-01;0;0;56868;Private;Minivan;yes;0;11.0;Highly Urban/ Urban;2022-04-25 12:32:19;complet;dev_express;268.26
+104317389;M;1989-03-11;0;0;135361;Private;Minivan;no;1;10.0;z_Highly Rural/ Rural;2022-05-11 08:01:49;complet;dev_express;273.34
+16259639;M;1973-01-18;0;2;52052;Private;z_SUV;no;1;12.0;Highly Urban/ Urban;2022-02-05 16:47:05;complet;dev_integral;291.56
+281051787;F;1963-08-07;0;2;5411;Private;Minivan;no;6;1.0;z_Highly Rural/ Rural;2022-03-03 08:35:51;complet;dev_express;283.39
+794836666;M;1963-10-07;2;3;29829;Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;2022-05-18 20:23:08;complet;dev_integral;309.66
+857881983;F;1982-09-01;0;0;55378;Commercial;Minivan;yes;0;9.0;z_Highly Rural/ Rural;2022-02-25 18:38:41;complet;dev_integral;334.71
+542926193;M;1945-06-24;0;0;39055;Commercial;Panel Truck;no;5;5.0;Highly Urban/ Urban;2022-01-18 19:21:58;complet;dev_vip;698.96
+843132398;F;1967-02-24;0;0;18555;Private;Minivan;no;3;7.0;Highly Urban/ Urban;2022-05-08 19:44:35;complet;dev_premium;504.54
+667355215;M;1958-08-11;0;3;45590;Private;z_SUV;no;0;5.0;Highly Urban/ Urban;2022-02-19 06:28:01;complet;dev_express;269.13
+326037454;F;2018-04-15;0;0;;Commercial;Pickup;yes;6;3.0;Highly Urban/ Urban;2022-01-10 07:16:54;complet;dev_express;262.34
+517596063;F;1953-05-08;0;0;72838;Commercial;Minivan;no;1;1.0;z_Highly Rural/ Rural;2022-03-30 01:16:37;complet;dev_express;276.11
+81476515;F;2002-12-13;2;2;64599;Private;Van;yes;1;;Highly Urban/ Urban;2022-05-07 20:16:31;complet;dev_express;260.57
+16446925;F;2011-09-14;0;0;22362;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-05-20 20:22:14;complet;dev_express;277.97
+873711350;F;1972-11-12;0;0;45931;Commercial;Van;yes;3;21.0;Highly Urban/ Urban;2022-05-07 13:12:02;complet;dev_integral;337.24
+646843657;M;1953-03-03;0;0;46952;Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-04-04 10:38:31;complet;dev_premium;419.58
+184765901;F;2007-11-14;0;0;69692;Private;Sports Car;no;0;10.0;Highly Urban/ Urban;2022-03-04 16:27:18;complet;dev_express;280.7
+624628682;M;1954-04-11;0;0;;Commercial;Panel Truck;yes;1;;Highly Urban/ Urban;2022-02-11 02:39:22;complet;dev_integral;298.28
+552499053;F;1939-01-29;1;2;0;Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-03-31 21:08:05;complet;dev_premium;438.71
+49408042;F;1955-05-27;0;0;138942;Private;Van;no;0;1.0;Highly Urban/ Urban;2022-01-26 05:48:18;complet;dev_express;271.08
+507552592;M;1943-02-04;2;4;;Commercial;Sports Car;no;2;1.0;Highly Urban/ Urban;2022-02-13 02:19:25;complet;dev_integral;304.69
+449101300;M;2017-10-15;0;0;95713;Private;Pickup;no;0;17.0;Highly Urban/ Urban;2022-01-15 14:58:09;complet;dev_premium;427.32
+513474624;M;2000-05-26;0;0;70198;Commercial;Panel Truck;no;0;9.0;Highly Urban/ Urban;2022-02-23 06:59:14;complet;dev_integral;333.27
+240336746;F;2001-02-25;0;2;86232;Private;z_SUV;no;0;15.0;Highly Urban/ Urban;2022-03-21 16:57:22;complet;dev_integral;317.33
+610834268;M;1994-03-17;0;0;122086;Private;Sports Car;no;0;11.0;Highly Urban/ Urban;2022-04-29 21:33:44;complet;dev_integral;280.47
+374284502;M;1964-10-05;0;0;0;Private;z_SUV;no;0;9.0;z_Highly Rural/ Rural;2022-03-07 01:05:15;complet;dev_express;271.89
+988854727;M;1950-12-30;0;4;16976;Private;z_SUV;no;0;5.0;Highly Urban/ Urban;2022-05-29 02:01:00;complet;dev_express;284.51
+824623191;M;1970-08-10;0;2;;Private;Minivan;yes;2;1.0;Highly Urban/ Urban;2022-03-10 20:21:17;complet;dev_express;273.08
+204838758;M;1963-01-22;0;4;6876;Private;Minivan;yes;2;11.0;Highly Urban/ Urban;2022-02-08 03:10:28;complet;dev_express;257.2
+807382773;F;2006-05-29;0;0;51303;Commercial;Van;no;8;11.0;Highly Urban/ Urban;2022-04-11 13:50:10;complet;dev_integral;303.76
+953853762;M;1938-05-08;0;0;;Private;Van;no;0;9.0;Highly Urban/ Urban;2022-05-26 21:07:04;complet;dev_integral;280.23
+763745844;M;2021-06-24;1;2;75188;Commercial;z_SUV;no;4;6.0;Highly Urban/ Urban;2022-04-18 15:10:43;complet;dev_express;261.27
+544601009;F;2020-10-26;0;0;52932;Commercial;Pickup;no;0;17.0;Highly Urban/ Urban;2022-02-19 13:54:09;complet;dev_express;254.23
+265777754;F;1994-06-28;0;0;56828;Commercial;Sports Car;no;3;9.0;Highly Urban/ Urban;2022-04-12 01:15:33;complet;dev_integral;320.08
+533341484;M;1959-06-07;0;4;32838;Commercial;Pickup;no;0;3.0;z_Highly Rural/ Rural;2022-04-17 18:55:21;complet;dev_integral;305.3
+761549990;M;1956-01-31;0;3;;Private;Minivan;yes;4;7.0;Highly Urban/ Urban;2022-03-23 15:44:07;complet;dev_integral;311.94
+124334242;M;1985-01-28;0;0;73242;Private;z_SUV;no;4;14.0;Highly Urban/ Urban;2022-02-05 20:30:47;complet;dev_integral;286.39
+367581939;F;1963-09-01;0;3;46671;Private;Minivan;no;0;;Highly Urban/ Urban;2022-03-26 22:33:21;complet;dev_premium;383.03
+526071798;F;1983-04-27;0;0;103328;Commercial;Van;no;3;10.0;Highly Urban/ Urban;2022-04-18 16:02:57;complet;dev_integral;320.22
+302592534;M;2008-06-12;0;0;;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-03-01 15:06:34;complet;dev_integral;291.02
+869119576;M;2008-08-05;0;0;53758;Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-01-30 08:56:36;complet;dev_integral;290.27
+55839290;F;2014-07-11;0;3;16071;Private;z_SUV;no;6;1.0;z_Highly Rural/ Rural;2022-02-02 16:00:40;complet;dev_express;255.29
+947448833;M;1967-08-01;1;3;89065;Commercial;Minivan;yes;0;6.0;Highly Urban/ Urban;2022-04-08 12:42:23;complet;dev_integral;313.56
+195551579;F;1959-03-31;0;0;59961;Commercial;Panel Truck;yes;4;1.0;Highly Urban/ Urban;2022-04-01 19:14:49;complet;dev_express;275.01
+119377306;M;2003-01-30;0;0;46420;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-07 22:44:04;complet;dev_premium;323.42
+156257492;F;1962-12-15;0;2;127504;Private;z_SUV;no;3;14.0;Highly Urban/ Urban;2022-05-06 19:34:02;complet;dev_integral;298.08
+672049450;M;2006-03-18;0;0;97713;Private;Van;yes;2;9.0;Highly Urban/ Urban;2022-05-26 22:28:41;complet;dev_premium;512.09
+409866880;M;1959-03-04;0;3;0;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-03-09 14:05:41;complet;dev_integral;338.79
+357800314;M;1966-09-28;1;2;61798;Private;Van;no;3;10.0;Highly Urban/ Urban;2022-02-04 19:11:57;complet;dev_integral;307.64
+69206496;M;1956-12-29;0;2;98128;Commercial;Minivan;no;3;9.0;z_Highly Rural/ Rural;2022-03-30 17:53:06;complet;dev_express;268.49
+295796026;M;1969-11-13;0;0;31269;Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;2022-01-05 01:49:38;complet;dev_integral;305.91
+7884893;M;1959-10-07;0;0;56447;Commercial;Minivan;yes;0;8.0;Highly Urban/ Urban;2022-03-13 10:35:02;complet;dev_express;254.43
+576805641;M;1957-01-13;0;1;0;Commercial;z_SUV;no;0;12.0;z_Highly Rural/ Rural;2022-04-13 11:44:32;complet;dev_integral;305.09
+764869450;M;1956-01-31;0;3;113486;Private;Minivan;no;1;14.0;Highly Urban/ Urban;2022-05-03 02:56:46;complet;dev_express;276.8
+459294600;F;1950-06-21;0;0;76778;Private;z_SUV;no;5;5.0;Highly Urban/ Urban;2022-03-10 06:59:20;complet;dev_express;250.81
+526733042;M;1994-11-26;0;0;109258;Commercial;z_SUV;no;0;8.0;Highly Urban/ Urban;2022-03-19 08:30:16;complet;dev_integral;332.19
+929031390;M;2020-04-30;1;1;23048;Commercial;Pickup;no;3;9.0;Highly Urban/ Urban;2022-05-12 21:36:25;complet;dev_integral;316.7
+959710460;M;1950-07-30;0;0;36504;Private;z_SUV;no;4;3.0;Highly Urban/ Urban;2022-04-19 01:39:33;complet;dev_express;260.09
+372087945;F;1995-09-12;0;0;56946;Private;Minivan;yes;0;20.0;Highly Urban/ Urban;2022-03-09 04:34:25;complet;dev_express;254.94
+651130544;M;1967-05-18;0;0;217967;Commercial;Panel Truck;yes;1;9.0;Highly Urban/ Urban;2022-03-30 06:16:31;complet;dev_integral;286.45
+699407099;M;1985-05-07;0;0;37694;Private;Pickup;no;2;6.0;Highly Urban/ Urban;2022-01-17 09:47:19;complet;dev_integral;331.26
+320947832;F;1971-01-31;0;1;34512;Commercial;Pickup;no;7;1.0;Highly Urban/ Urban;2022-04-14 13:13:38;complet;dev_express;253.37
+833029532;M;1964-05-24;0;0;0;Private;Sports Car;no;1;8.0;Highly Urban/ Urban;2022-04-07 23:39:14;complet;dev_premium;347.46
+632654621;F;1995-10-25;0;0;60349;Private;Sports Car;yes;1;10.0;Highly Urban/ Urban;2022-01-26 06:42:00;complet;dev_integral;337.92
+595361871;M;2007-03-24;0;2;114506;Private;Minivan;no;2;16.0;Highly Urban/ Urban;2022-01-26 18:39:10;complet;dev_integral;292.17
+899077689;F;1982-07-06;0;0;100888;Private;z_SUV;no;2;11.0;Highly Urban/ Urban;2022-03-15 15:42:25;complet;dev_integral;337.34
+504487073;F;1969-10-19;0;0;93064;Private;z_SUV;yes;0;17.0;Highly Urban/ Urban;2022-05-30 14:54:36;complet;dev_integral;328.65
+617024306;M;2017-01-09;2;3;0;Commercial;Pickup;yes;2;1.0;Highly Urban/ Urban;2022-04-09 00:17:26;complet;dev_express;256.95
+683103279;F;1976-02-08;0;0;35133;Private;Minivan;yes;0;8.0;Highly Urban/ Urban;2022-05-21 17:50:08;complet;dev_premium;399.65
+88969532;M;2015-11-08;0;3;92951;Commercial;Pickup;yes;0;10.0;Highly Urban/ Urban;2022-01-01 05:44:52;complet;dev_integral;331.51
+833179867;M;1932-01-11;0;0;90015;Private;z_SUV;no;2;15.0;Highly Urban/ Urban;2022-02-24 00:48:26;complet;dev_express;257.68
+681505223;F;1996-10-04;0;0;134646;Private;Pickup;no;2;10.0;Highly Urban/ Urban;2022-01-12 00:48:43;complet;dev_integral;333.35
+581675209;M;1952-04-30;1;2;18631;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-01-14 11:52:33;complet;dev_integral;332.58
+307275145;F;1963-11-26;0;3;17839;Commercial;Pickup;no;1;7.0;z_Highly Rural/ Rural;2022-02-02 05:11:47;complet;dev_integral;306.9
+802236621;M;1974-01-15;0;0;75614;Private;Minivan;yes;2;14.0;Highly Urban/ Urban;2022-04-10 20:24:17;complet;dev_integral;323.6
+333169593;M;2009-03-25;0;0;76916;Private;z_SUV;no;4;5.0;Highly Urban/ Urban;2022-05-28 19:58:48;complet;dev_integral;314.26
+900677342;M;1988-08-12;0;0;55659;Commercial;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-05-19 06:35:00;complet;dev_integral;334.21
+277664335;F;1972-09-05;0;0;65529;Private;Minivan;yes;0;9.0;Highly Urban/ Urban;2022-03-05 18:04:15;complet;dev_integral;295.46
+761425152;M;1953-06-01;0;0;66026;Commercial;Pickup;no;3;16.0;Highly Urban/ Urban;2022-01-04 08:53:31;complet;dev_express;276.21
+681971608;M;1995-11-11;0;0;57615;Commercial;Van;yes;2;9.0;Highly Urban/ Urban;2022-04-23 00:38:02;complet;dev_integral;296.96
+3136701;M;1953-12-24;0;0;45085;Private;z_SUV;no;2;16.0;Highly Urban/ Urban;2022-01-19 08:22:21;complet;dev_integral;315.02
+298972738;M;1963-08-30;0;0;51402;Commercial;Pickup;no;0;19.0;Highly Urban/ Urban;2022-05-14 21:13:43;complet;dev_integral;281.77
+346268781;M;1958-05-25;0;0;55693;Commercial;Pickup;no;4;4.0;Highly Urban/ Urban;2022-02-22 09:35:11;complet;dev_integral;325.17
+210586185;F;1994-05-29;0;0;88392;Commercial;Panel Truck;no;0;17.0;Highly Urban/ Urban;2022-02-24 12:40:25;complet;dev_integral;312.46
+533429603;M;1959-07-25;0;1;;Commercial;Panel Truck;no;0;12.0;Highly Urban/ Urban;2022-05-26 12:01:30;complet;dev_express;282.02
+387872327;F;1982-06-20;0;2;102658;Commercial;z_SUV;no;1;1.0;z_Highly Rural/ Rural;2022-01-14 18:54:04;complet;dev_integral;294.0
+541204921;M;1959-11-09;0;0;73872;Private;Minivan;no;1;16.0;z_Highly Rural/ Rural;2022-01-06 06:03:12;complet;dev_premium;490.24
+714146144;F;2017-11-06;2;2;89240;Private;z_SUV;no;3;22.0;Highly Urban/ Urban;2022-01-21 20:55:41;complet;dev_integral;285.14
+31185701;M;1978-07-29;0;0;174806;Private;Minivan;yes;2;12.0;Highly Urban/ Urban;2022-04-12 15:22:58;complet;dev_integral;294.05
+654016315;M;1973-08-12;0;0;189373;Private;Minivan;no;1;15.0;Highly Urban/ Urban;2022-01-05 05:59:38;complet;dev_premium;418.4
+883839245;M;1960-04-24;0;0;8585;Commercial;Pickup;no;1;11.0;Highly Urban/ Urban;2022-01-10 06:19:10;complet;dev_integral;330.24
+751270923;F;1961-11-13;0;0;65268;Commercial;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-04-08 06:27:39;complet;dev_premium;336.67
+621566024;M;1961-12-29;0;0;88233;Private;Pickup;yes;3;15.0;Highly Urban/ Urban;2022-03-30 15:14:49;complet;dev_integral;280.3
+877963843;M;1945-10-22;0;0;60829;Commercial;Panel Truck;yes;0;16.0;Highly Urban/ Urban;2022-04-12 05:10:45;complet;dev_express;281.71
+702221350;F;1942-06-30;0;0;68958;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-03-15 08:34:32;complet;dev_integral;319.4
+582259166;F;1941-05-22;0;2;9785;Private;z_SUV;no;4;1.0;Highly Urban/ Urban;2022-03-12 10:18:18;complet;dev_integral;320.97
+269708952;M;1959-02-07;0;0;59603;Commercial;Pickup;no;1;17.0;Highly Urban/ Urban;2022-03-14 14:38:44;complet;dev_integral;282.49
+588735599;M;1938-01-29;0;2;42393;Commercial;Van;yes;0;13.0;Highly Urban/ Urban;2022-01-09 22:09:48;complet;dev_integral;324.04
+466393960;M;1968-05-07;0;0;;Commercial;z_SUV;no;1;7.0;Highly Urban/ Urban;2022-02-27 16:55:05;complet;dev_express;274.5
+863684199;F;1954-10-21;1;2;10359;Private;z_SUV;no;0;10.0;Highly Urban/ Urban;2022-02-02 08:14:17;complet;dev_premium;470.02
+833854179;M;1954-04-20;0;0;79951;Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-03-06 16:17:43;complet;dev_express;281.61
+490269648;M;1966-09-10;0;0;50112;Private;Minivan;yes;0;12.0;Highly Urban/ Urban;2022-01-06 06:25:05;complet;dev_express;256.21
+845296243;F;1987-08-10;0;0;10951;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-04-03 02:20:45;complet;dev_integral;323.83
+842349966;F;1963-10-24;0;3;139801;Private;Minivan;no;0;10.0;Highly Urban/ Urban;2022-04-30 23:07:19;complet;dev_integral;280.43
+585866711;M;1939-01-30;0;0;93474;Private;Pickup;no;0;13.0;Highly Urban/ Urban;2022-03-19 17:09:26;complet;dev_integral;301.77
+672745912;F;1936-03-01;0;0;41301;Private;Minivan;yes;0;9.0;z_Highly Rural/ Rural;2022-01-24 05:53:36;complet;dev_express;279.89
+588766853;F;1963-05-02;0;3;6607;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-02-23 04:42:44;complet;dev_integral;302.72
+543547880;M;1961-01-13;0;3;0;Commercial;Sports Car;no;7;8.0;Highly Urban/ Urban;2022-05-17 10:24:02;complet;dev_integral;287.79
+873076961;F;1997-07-26;0;0;;Private;Van;no;4;1.0;Highly Urban/ Urban;2022-03-06 00:45:00;complet;dev_express;263.5
+431450641;F;2011-12-05;0;0;4716;Private;Pickup;no;1;1.0;Highly Urban/ Urban;2022-03-13 16:07:01;complet;dev_integral;329.81
+319577550;M;2019-01-26;0;3;;Commercial;z_SUV;no;0;10.0;Highly Urban/ Urban;2022-02-10 20:24:01;complet;dev_premium;455.8
+213470988;F;1957-11-21;0;0;;Private;z_SUV;no;0;16.0;Highly Urban/ Urban;2022-01-16 04:07:39;complet;dev_integral;312.48
+478592104;M;1969-08-22;0;0;33087;Commercial;Panel Truck;yes;6;11.0;Highly Urban/ Urban;2022-05-19 17:14:19;complet;dev_express;258.64
+120982530;M;1950-05-26;0;2;182620;Private;z_SUV;no;2;18.0;Highly Urban/ Urban;2022-04-18 02:22:39;complet;dev_express;257.61
+398088595;M;1959-06-07;0;2;11677;Commercial;z_SUV;no;2;5.0;z_Highly Rural/ Rural;2022-01-13 09:31:06;complet;dev_integral;323.83
+916886261;M;1973-07-21;0;0;61441;Commercial;Panel Truck;yes;0;1.0;Highly Urban/ Urban;2022-05-28 06:19:28;complet;dev_integral;328.2
+982415908;F;1977-11-19;0;0;71869;Commercial;Panel Truck;yes;0;15.0;Highly Urban/ Urban;2022-03-28 01:51:32;complet;dev_express;266.46
+233696411;F;1943-05-01;0;2;47937;Private;Minivan;no;1;3.0;Highly Urban/ Urban;2022-03-15 17:21:56;complet;dev_integral;303.43
+890494842;M;1963-05-19;0;3;0;Private;Pickup;yes;0;7.0;Highly Urban/ Urban;2022-03-10 08:41:18;complet;dev_integral;309.28
+613258442;M;1950-08-25;0;2;71600;Private;z_SUV;no;4;5.0;z_Highly Rural/ Rural;2022-01-20 06:27:49;complet;dev_express;255.36
+667450590;F;1964-02-23;0;0;61105;Private;Minivan;yes;0;22.0;Highly Urban/ Urban;2022-04-09 17:10:50;complet;dev_integral;305.89
+477432531;M;1994-04-18;0;0;99175;Commercial;Pickup;no;1;21.0;Highly Urban/ Urban;2022-03-05 15:27:58;complet;dev_premium;421.62
+110229597;M;2011-08-05;1;3;88137;Commercial;Van;yes;0;14.0;Highly Urban/ Urban;2022-04-09 10:34:21;complet;dev_premium;438.48
+164287398;F;1965-10-16;3;3;36436;Private;Pickup;no;5;1.0;Highly Urban/ Urban;2022-02-16 13:50:18;complet;dev_integral;292.43
+35225506;M;1947-10-11;0;3;17949;Commercial;Minivan;yes;6;10.0;Highly Urban/ Urban;2022-04-06 17:34:06;complet;dev_integral;334.86
+689906306;F;1957-03-25;0;0;87083;Private;Van;no;4;11.0;Highly Urban/ Urban;2022-03-23 08:12:42;complet;dev_express;278.74
+849635969;F;1950-06-25;0;2;30415;Private;z_SUV;no;3;1.0;Highly Urban/ Urban;2022-01-25 03:27:59;complet;dev_express;284.85
+862235931;F;2000-11-26;0;4;0;Commercial;z_SUV;no;1;7.0;Highly Urban/ Urban;2022-01-21 09:35:42;complet;dev_express;267.59
+669026566;M;1955-02-04;0;2;141177;Private;Minivan;no;8;15.0;Highly Urban/ Urban;2022-01-27 16:51:34;complet;dev_integral;339.19
+225153231;M;1947-06-23;0;4;0;Commercial;z_SUV;no;9;1.0;Highly Urban/ Urban;2022-04-22 14:21:01;complet;dev_integral;331.67
+234402670;M;1956-12-03;0;0;111343;Private;z_SUV;no;0;17.0;Highly Urban/ Urban;2022-03-13 23:40:09;complet;dev_express;278.65
+370978438;F;1963-05-13;0;0;176648;Commercial;Van;no;4;8.0;Highly Urban/ Urban;2022-01-15 03:03:13;complet;dev_premium;382.01
+278452834;F;2022-04-27;0;0;;Private;Minivan;no;3;15.0;Highly Urban/ Urban;2022-02-24 23:09:42;complet;dev_express;280.02
+55524164;F;1965-12-30;0;0;99424;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-03-27 17:51:21;complet;dev_integral;321.62
+637927739;M;1962-12-05;0;0;49856;Commercial;Van;yes;0;10.0;Highly Urban/ Urban;2022-04-02 07:37:34;complet;dev_express;281.2
+688694531;F;2001-07-30;0;0;36273;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;2022-02-18 07:19:11;complet;dev_integral;284.75
+967096094;M;1945-11-07;3;3;60589;Private;z_SUV;no;2;7.0;Highly Urban/ Urban;2022-04-17 09:27:32;complet;dev_integral;295.72
+87335150;F;1983-08-04;0;0;28207;Commercial;Pickup;no;3;;z_Highly Rural/ Rural;2022-05-20 03:29:57;complet;dev_express;275.46
+401624808;F;2009-01-05;0;0;13077;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-01-29 23:20:08;complet;dev_integral;309.15
+934611742;M;1981-12-19;0;0;;Private;z_SUV;no;3;7.0;Highly Urban/ Urban;2022-05-01 19:40:24;complet;dev_express;261.44
+75962232;M;2006-12-23;0;0;0;Private;z_SUV;no;4;1.0;Highly Urban/ Urban;2022-05-02 20:32:10;complet;dev_premium;428.95
+853147285;F;1961-02-14;0;0;92192;Commercial;Van;yes;4;17.0;Highly Urban/ Urban;2022-04-22 21:23:09;complet;dev_express;271.35
+886732326;M;1956-09-20;0;0;77658;Private;z_SUV;no;7;18.0;Highly Urban/ Urban;2022-01-24 10:55:05;complet;dev_integral;299.34
+228483753;M;2007-04-24;0;0;172109;Private;Pickup;no;0;9.0;Highly Urban/ Urban;2022-02-23 01:41:54;complet;dev_premium;504.5
+385007994;F;1961-07-17;0;0;67399;Commercial;Van;yes;4;1.0;Highly Urban/ Urban;2022-05-22 10:59:54;complet;dev_premium;441.6
+868843430;F;1978-07-04;1;1;24498;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-03-17 14:31:47;complet;dev_vip;969.98
+142700967;F;2011-12-13;0;0;95152;Commercial;Panel Truck;yes;0;10.0;Highly Urban/ Urban;2022-04-04 00:54:06;complet;dev_express;265.11
+704518517;M;2001-05-24;0;0;23672;Private;Minivan;no;4;4.0;z_Highly Rural/ Rural;2022-05-01 00:26:22;complet;dev_integral;311.29
+139477422;F;1936-10-04;0;2;24469;Commercial;Panel Truck;yes;4;6.0;Highly Urban/ Urban;2022-05-02 17:11:53;complet;dev_integral;294.9
+414075321;F;1997-11-23;1;1;115960;Commercial;Pickup;no;0;7.0;z_Highly Rural/ Rural;2022-03-28 12:11:58;complet;dev_integral;292.67
+606846426;F;1981-04-19;0;0;174993;Commercial;Panel Truck;yes;1;12.0;Highly Urban/ Urban;2022-05-19 17:35:59;complet;dev_integral;305.81
+375690054;M;1969-08-18;0;0;27652;Private;Van;no;0;6.0;Highly Urban/ Urban;2022-05-14 09:17:35;complet;dev_express;271.75
+211999932;F;1942-09-06;0;1;126762;Private;z_SUV;no;0;13.0;Highly Urban/ Urban;2022-05-06 04:55:07;complet;dev_premium;519.64
+153772160;M;1964-06-18;0;0;41952;Commercial;Pickup;no;2;10.0;Highly Urban/ Urban;2022-04-25 02:13:33;complet;dev_premium;417.59
+689058670;F;1991-09-08;0;0;49564;Private;z_SUV;no;6;13.0;Highly Urban/ Urban;2022-03-18 15:22:24;complet;dev_premium;493.33
+965145602;F;1985-11-02;0;0;213892;Private;Minivan;no;0;17.0;Highly Urban/ Urban;2022-04-15 20:51:21;complet;dev_integral;310.21
+191463960;F;1955-09-03;0;0;145319;Commercial;Pickup;no;0;9.0;Highly Urban/ Urban;2022-01-20 21:33:08;complet;dev_premium;413.23
+551754915;F;2008-12-21;0;0;;Commercial;z_SUV;no;4;9.0;Highly Urban/ Urban;2022-03-14 05:31:29;complet;dev_vip;753.67
+808472993;M;1933-08-25;0;0;50593;Private;Sports Car;no;3;12.0;Highly Urban/ Urban;2022-01-08 07:30:41;complet;dev_express;255.94
+251910175;F;1946-12-29;0;3;0;Private;Sports Car;no;0;6.0;Highly Urban/ Urban;2022-04-21 14:09:28;complet;dev_integral;282.63
+915078478;F;1936-09-14;0;0;49657;Private;z_SUV;no;4;;Highly Urban/ Urban;2022-02-19 17:32:43;complet;dev_premium;526.21
+319310046;M;1935-04-21;0;1;51120;Commercial;Panel Truck;yes;2;8.0;Highly Urban/ Urban;2022-04-04 09:50:44;complet;dev_integral;312.94
+924192681;M;1983-08-30;1;2;110007;Private;z_SUV;no;4;6.0;z_Highly Rural/ Rural;2022-01-17 08:07:21;complet;dev_premium;351.31
+691605714;F;1982-08-17;0;0;197493;Commercial;Panel Truck;no;5;12.0;Highly Urban/ Urban;2022-01-14 22:35:27;complet;dev_express;276.85
+770698930;M;1965-11-04;0;0;135523;Commercial;Van;no;4;13.0;Highly Urban/ Urban;2022-02-01 10:47:01;complet;dev_integral;313.81
+527087402;F;1961-05-31;0;0;55447;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-04-03 06:07:12;complet;dev_integral;333.26
+880652778;F;1960-12-16;0;0;36751;Private;Minivan;no;5;15.0;z_Highly Rural/ Rural;2022-02-25 19:43:51;complet;dev_integral;328.6
+104793760;M;2013-09-03;2;3;15385;Private;z_SUV;no;0;5.0;Highly Urban/ Urban;2022-05-14 23:10:17;complet;dev_express;252.66
+752768207;M;1979-11-15;0;0;21484;Private;Pickup;no;2;1.0;Highly Urban/ Urban;2022-02-01 20:17:14;complet;dev_express;252.73
+871732998;F;2016-02-20;0;0;176866;Private;Minivan;yes;1;16.0;Highly Urban/ Urban;2022-02-09 10:27:00;complet;dev_premium;442.23
+462280428;M;1943-09-27;0;4;72641;Private;Pickup;yes;3;9.0;Highly Urban/ Urban;2022-01-13 10:00:28;complet;dev_integral;338.73
+192744071;M;1972-09-11;0;0;62483;Private;z_SUV;no;0;8.0;Highly Urban/ Urban;2022-05-14 03:38:14;complet;dev_express;272.11
+37965490;F;1968-09-22;0;0;75386;Private;z_SUV;no;3;;Highly Urban/ Urban;2022-01-27 11:04:39;complet;dev_premium;479.68
+686481815;M;1974-12-30;0;0;58251;Commercial;Van;no;0;7.0;Highly Urban/ Urban;2022-01-03 08:30:44;complet;dev_integral;336.85
+371800250;M;1941-03-26;0;0;0;Commercial;Pickup;no;4;7.0;Highly Urban/ Urban;2022-03-26 11:54:31;complet;dev_integral;323.63
+412642631;F;1933-04-30;0;2;29754;Private;Minivan;no;0;10.0;Highly Urban/ Urban;2022-03-07 22:55:06;complet;dev_integral;335.82
+737945954;M;1960-09-01;0;0;23290;Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-03-01 05:37:07;complet;dev_integral;288.15
+962250631;M;1957-08-07;0;0;78458;Commercial;z_SUV;yes;0;13.0;Highly Urban/ Urban;2022-05-04 07:09:25;complet;dev_integral;332.89
+825220621;F;2012-12-19;0;0;51116;Commercial;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-02-04 19:41:35;complet;dev_express;270.04
+715263455;M;1935-08-15;0;0;40277;Commercial;Pickup;yes;6;9.0;Highly Urban/ Urban;2022-04-26 10:16:38;complet;dev_premium;399.83
+440484436;F;1969-12-15;0;0;92106;Private;Minivan;no;1;7.0;Highly Urban/ Urban;2022-01-02 05:31:09;complet;dev_integral;303.4
+219393180;M;1963-10-20;0;0;126747;Private;Minivan;no;7;22.0;Highly Urban/ Urban;2022-03-26 09:04:08;complet;dev_integral;331.22
+983673321;M;1969-12-14;0;0;23670;Private;Van;yes;3;1.0;Highly Urban/ Urban;2022-01-16 22:31:15;complet;dev_integral;331.33
+988268810;F;1942-08-24;0;2;60448;Private;Sports Car;no;0;;Highly Urban/ Urban;2022-05-26 01:56:50;complet;dev_integral;317.67
+144269185;M;1936-01-22;0;0;51121;Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-03-24 15:49:56;complet;dev_express;284.35
+987659359;M;1970-03-03;1;2;42332;Private;Sports Car;no;2;1.0;z_Highly Rural/ Rural;2022-04-20 06:44:39;complet;dev_express;253.11
+925761189;M;1976-03-15;0;0;93491;Private;Pickup;yes;0;9.0;Highly Urban/ Urban;2022-05-11 12:25:23;complet;dev_integral;339.93
+405470506;M;1968-11-11;0;0;40783;Commercial;Minivan;no;0;10.0;Highly Urban/ Urban;2022-01-13 05:16:18;complet;dev_express;281.02
+52504510;F;1971-03-22;0;0;91428;Private;Minivan;yes;2;9.0;Highly Urban/ Urban;2022-03-21 21:34:02;complet;dev_express;272.42
+317029629;F;1982-02-01;0;0;142545;Private;Minivan;no;0;11.0;z_Highly Rural/ Rural;2022-01-18 19:42:23;complet;dev_express;283.75
+669900520;F;1956-12-15;0;0;52338;Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-04-13 16:21:06;complet;dev_express;255.77
+88757083;F;1947-01-15;0;0;;Commercial;Pickup;no;0;15.0;Highly Urban/ Urban;2022-04-24 13:56:48;complet;dev_express;271.82
+610279903;M;1961-07-12;0;0;9444;Commercial;Pickup;no;4;7.0;Highly Urban/ Urban;2022-02-10 20:57:17;complet;dev_premium;516.61
+457437019;F;1950-03-11;0;0;0;Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;2022-02-28 13:38:37;complet;dev_integral;288.49
+612102043;M;1957-10-25;0;3;0;Private;Pickup;no;0;8.0;z_Highly Rural/ Rural;2022-02-05 23:52:53;complet;dev_express;254.9
+280912778;M;1945-04-28;0;0;95892;Private;Pickup;no;1;9.0;Highly Urban/ Urban;2022-03-27 09:37:16;complet;dev_express;284.78
+617988135;F;1987-07-14;0;0;;Private;z_SUV;no;2;7.0;z_Highly Rural/ Rural;2022-01-05 09:36:47;complet;dev_express;258.02
+549927672;M;1968-05-12;0;0;59305;Private;Minivan;no;2;14.0;Highly Urban/ Urban;2022-05-03 13:03:51;complet;dev_express;254.61
+371976627;M;1998-02-25;0;0;36950;Commercial;z_SUV;yes;0;1.0;Highly Urban/ Urban;2022-03-26 15:22:17;complet;dev_express;253.48
+204049784;F;1942-10-25;0;0;26597;Commercial;Panel Truck;no;1;15.0;Highly Urban/ Urban;2022-01-31 22:44:49;complet;dev_express;263.71
+642979407;F;1960-10-16;0;0;112819;Private;Minivan;no;1;20.0;Highly Urban/ Urban;2022-04-30 07:11:54;complet;dev_express;266.17
+742285314;F;2022-06-26;0;1;96013;Commercial;Panel Truck;no;0;13.0;Highly Urban/ Urban;2022-02-04 16:10:20;complet;dev_premium;506.17
+639146508;M;1943-02-18;0;4;40205;Private;Sports Car;no;4;9.0;z_Highly Rural/ Rural;2022-01-20 00:18:23;complet;dev_integral;301.22
+274850342;F;1964-01-05;0;0;124833;Private;Minivan;yes;0;19.0;Highly Urban/ Urban;2022-03-22 00:59:26;complet;dev_integral;313.6
+986607982;M;1951-09-13;0;4;0;Private;Sports Car;no;0;13.0;Highly Urban/ Urban;2022-05-31 06:29:01;complet;dev_premium;407.08
+447408712;M;1982-09-11;0;0;;Commercial;Sports Car;no;4;1.0;Highly Urban/ Urban;2022-01-05 05:06:37;complet;dev_integral;297.81
+832864413;F;1972-10-25;0;1;9761;Private;Sports Car;yes;10;0.0;Highly Urban/ Urban;2022-04-23 05:49:58;complet;dev_express;260.76
+976037221;F;1992-01-22;0;0;82624;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-05-02 13:16:37;complet;dev_express;263.64
+50270043;F;2012-03-22;1;2;46177;Commercial;Minivan;yes;0;10.0;Highly Urban/ Urban;2022-04-11 11:41:45;complet;dev_integral;283.95
+853116074;M;1990-07-26;0;0;82231;Private;z_SUV;no;4;1.0;Highly Urban/ Urban;2022-02-04 15:17:12;complet;dev_express;276.46
+950990439;F;1971-11-14;0;0;27381;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-01-22 15:31:10;complet;dev_vip;791.88
+863439012;M;1983-04-25;0;0;94062;Private;Minivan;yes;2;11.0;Highly Urban/ Urban;2022-03-18 16:21:30;complet;dev_express;266.13
+476352722;F;1970-04-14;0;2;0;Private;Pickup;no;0;6.0;Highly Urban/ Urban;2022-02-08 16:14:23;complet;dev_integral;307.2
+227625585;M;1999-02-03;2;4;5175;Commercial;z_SUV;no;0;8.0;z_Highly Rural/ Rural;2022-02-21 08:59:46;complet;dev_express;268.48
+634343179;F;1998-04-20;0;0;107814;Commercial;Van;yes;2;;Highly Urban/ Urban;2022-01-13 01:41:47;complet;dev_integral;321.1
+158916131;F;1994-02-21;1;1;63269;Private;Pickup;yes;0;11.0;Highly Urban/ Urban;2022-05-20 20:26:28;complet;dev_express;265.05
+196187695;M;1951-09-14;0;2;42229;Commercial;Pickup;no;2;1.0;Highly Urban/ Urban;2022-02-19 12:40:40;complet;dev_express;257.78
+787625629;F;2009-01-08;0;1;66296;Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-04-13 06:07:12;complet;dev_premium;511.98
+635649372;F;1971-05-27;0;0;51981;Commercial;z_SUV;no;0;8.0;z_Highly Rural/ Rural;2022-03-25 10:32:38;complet;dev_integral;328.69
+78653569;F;1999-08-10;0;0;90934;Private;Sports Car;no;1;17.0;Highly Urban/ Urban;2022-05-08 03:44:39;complet;dev_express;259.8
+397946751;M;1955-01-23;0;2;0;Commercial;z_SUV;no;3;8.0;Highly Urban/ Urban;2022-01-08 09:26:52;complet;dev_express;262.66
+521036720;F;1942-01-11;0;0;0;Commercial;Pickup;yes;2;1.0;z_Highly Rural/ Rural;2022-02-20 21:02:08;complet;dev_integral;297.38
+953200841;F;1979-11-05;0;0;109836;Commercial;Sports Car;no;1;6.0;Highly Urban/ Urban;2022-02-17 13:28:57;complet;dev_integral;310.32
+674266132;M;1971-07-03;0;2;67168;Private;Minivan;no;0;9.0;Highly Urban/ Urban;2022-01-24 09:56:28;complet;dev_integral;339.93
+342815012;F;1947-05-21;1;1;62894;Private;Sports Car;no;4;14.0;Highly Urban/ Urban;2022-05-23 04:04:41;complet;dev_integral;303.88
+495762787;M;1955-08-12;0;0;66522;Commercial;z_SUV;no;0;11.0;Highly Urban/ Urban;2022-05-12 14:06:23;complet;dev_express;261.1
+438426733;M;1940-12-09;1;2;72605;Private;z_SUV;no;0;6.0;Highly Urban/ Urban;2022-02-25 05:46:01;complet;dev_integral;288.18
+103663917;F;1963-01-21;1;2;3414;Private;Minivan;yes;0;;Highly Urban/ Urban;2022-05-20 20:57:52;complet;dev_express;273.58
+331518489;F;1950-12-13;0;1;189093;Commercial;Panel Truck;yes;0;7.0;Highly Urban/ Urban;2022-02-22 03:31:40;complet;dev_premium;388.59
+437360701;F;2001-05-09;1;1;35579;Private;Minivan;yes;0;6.0;Highly Urban/ Urban;2022-02-23 09:01:00;complet;dev_express;259.73
+131312301;M;2019-05-27;0;1;61586;Private;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-03-28 01:18:17;complet;dev_premium;520.4
+340661905;F;1972-07-15;0;0;4034;Commercial;z_SUV;no;0;7.0;z_Highly Rural/ Rural;2022-05-02 08:14:13;complet;dev_express;284.63
+642175890;F;1968-10-25;0;1;22401;Private;Sports Car;no;6;4.0;Highly Urban/ Urban;2022-03-20 06:02:11;complet;dev_integral;314.45
+346258674;M;2011-08-10;0;1;5206;Commercial;z_SUV;no;4;10.0;Highly Urban/ Urban;2022-04-23 18:46:21;complet;dev_integral;308.56
+797568231;M;1947-08-17;0;0;81493;Commercial;Minivan;yes;11;7.0;Highly Urban/ Urban;2022-04-11 13:58:11;complet;dev_express;281.8
+716593188;M;1977-06-27;0;0;49268;Commercial;Van;no;1;12.0;Highly Urban/ Urban;2022-04-23 16:15:26;complet;dev_premium;320.93
+127519263;M;1973-02-11;0;0;23772;Commercial;Panel Truck;no;0;1.0;z_Highly Rural/ Rural;2022-04-13 06:30:38;complet;dev_express;279.52
+908005205;M;2015-04-08;0;0;69554;Commercial;Pickup;yes;2;10.0;z_Highly Rural/ Rural;2022-03-26 17:10:44;complet;dev_integral;284.34
+482073984;F;1974-12-24;0;0;94059;Commercial;Panel Truck;yes;0;6.0;Highly Urban/ Urban;2022-02-28 13:20:52;complet;dev_integral;283.77
+850314594;F;1951-05-12;0;0;183296;Private;Minivan;no;0;;Highly Urban/ Urban;2022-03-18 02:48:43;complet;dev_integral;315.24
+612724512;M;1968-05-05;1;2;86860;Commercial;Minivan;no;4;1.0;Highly Urban/ Urban;2022-02-17 04:34:26;complet;dev_express;258.14
+639408362;M;1945-07-25;0;0;59743;Commercial;Minivan;no;4;10.0;Highly Urban/ Urban;2022-02-23 14:57:47;complet;dev_premium;354.49
+204049784;F;1950-06-13;0;0;66579;Private;Minivan;no;0;;Highly Urban/ Urban;2022-01-23 05:09:24;complet;dev_integral;283.16
+160172662;M;1998-08-18;0;2;23853;Private;Minivan;yes;0;;Highly Urban/ Urban;2022-05-03 10:57:21;complet;dev_integral;287.59
+266148272;M;1957-12-26;0;0;29998;Private;Van;yes;1;12.0;Highly Urban/ Urban;2022-01-17 12:09:28;complet;dev_premium;526.21
+544560620;M;1978-08-24;0;0;107394;Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-05-17 21:52:26;complet;dev_integral;318.57
+882704506;F;2009-08-26;3;3;110251;Commercial;Panel Truck;yes;3;1.0;Highly Urban/ Urban;2022-02-08 17:21:00;complet;dev_premium;421.64
+357974300;M;1968-10-20;0;1;39861;Private;z_SUV;no;0;8.0;Highly Urban/ Urban;2022-01-06 07:34:06;complet;dev_express;273.2
+887285113;F;1960-05-09;0;0;172877;Commercial;Pickup;no;0;;Highly Urban/ Urban;2022-03-18 04:48:23;complet;dev_express;257.39
+751140703;F;1934-12-26;0;0;59232;Private;Sports Car;no;4;8.0;Highly Urban/ Urban;2022-04-20 00:32:14;complet;dev_express;250.33
+799546273;F;2019-07-13;0;0;71961;Private;z_SUV;no;6;16.0;Highly Urban/ Urban;2022-01-05 23:57:03;complet;dev_integral;338.38
+612835729;F;2008-07-11;0;1;;Private;Minivan;yes;1;8.0;Highly Urban/ Urban;2022-03-07 13:17:47;complet;dev_express;271.8
+637224986;M;1991-05-19;0;0;66067;Private;Minivan;no;0;10.0;Highly Urban/ Urban;2022-04-08 06:36:03;complet;dev_premium;423.85
+895787911;F;1957-01-21;0;0;149140;Commercial;Panel Truck;no;3;13.0;Highly Urban/ Urban;2022-01-13 13:58:07;complet;dev_integral;339.5
+409115771;M;1973-04-08;0;0;123265;Private;Minivan;yes;0;19.0;Highly Urban/ Urban;2022-01-22 04:31:37;complet;dev_integral;292.54
+967096094;M;1953-04-29;3;3;121626;Private;z_SUV;no;1;11.0;Highly Urban/ Urban;2022-05-13 07:42:18;complet;dev_premium;440.07
+318075197;F;1940-07-01;1;1;38111;Private;z_SUV;no;2;19.0;Highly Urban/ Urban;2022-03-01 00:11:30;complet;dev_express;260.84
+464738176;M;1989-04-18;0;0;0;Private;Sports Car;no;2;5.0;z_Highly Rural/ Rural;2022-05-17 00:52:49;complet;dev_integral;315.11
+20057040;M;1947-08-07;0;0;306277;Private;Minivan;no;2;19.0;Highly Urban/ Urban;2022-02-27 06:06:47;complet;dev_integral;339.13
+117358712;M;2020-12-26;0;1;13186;Private;z_SUV;no;2;8.0;Highly Urban/ Urban;2022-01-14 18:08:05;complet;dev_express;251.42
+797925473;M;1985-08-25;2;2;0;Private;z_SUV;no;4;11.0;z_Highly Rural/ Rural;2022-04-12 03:39:32;complet;dev_vip;562.31
+909760044;F;1964-03-05;0;0;;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-04-03 21:09:12;complet;dev_integral;326.04
+631867230;M;1955-02-04;1;1;34560;Commercial;Pickup;yes;0;7.0;Highly Urban/ Urban;2022-02-15 06:50:36;complet;dev_premium;354.48
+995880115;F;1972-06-02;0;0;70341;Commercial;Panel Truck;yes;0;15.0;Highly Urban/ Urban;2022-04-21 08:04:40;complet;dev_express;267.55
+678350409;M;2007-04-10;0;1;5622;Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;2022-04-13 17:06:23;complet;dev_premium;498.78
+729199936;M;1962-02-08;0;0;18896;Commercial;Minivan;yes;2;8.0;Highly Urban/ Urban;2022-02-11 09:08:38;complet;dev_premium;447.61
+706760299;F;1959-03-22;0;0;44977;Commercial;Pickup;yes;6;1.0;Highly Urban/ Urban;2022-02-13 07:43:28;complet;dev_premium;368.28
+801539934;M;1952-10-25;0;0;108027;Private;z_SUV;no;1;15.0;Highly Urban/ Urban;2022-05-16 04:25:58;complet;dev_premium;364.79
+89979221;F;1968-09-01;2;2;188472;Private;Minivan;no;0;20.0;Highly Urban/ Urban;2022-03-18 14:59:17;complet;dev_integral;327.51
+115481174;F;1956-01-12;0;0;66222;Private;Minivan;no;5;;Highly Urban/ Urban;2022-01-18 16:49:27;complet;dev_express;282.75
+876968470;F;2009-05-06;0;0;178768;Commercial;Panel Truck;no;1;12.0;Highly Urban/ Urban;2022-05-23 10:42:19;complet;dev_express;251.66
+906904164;M;1953-08-19;0;0;190579;Private;z_SUV;no;0;16.0;Highly Urban/ Urban;2022-03-16 01:51:04;complet;dev_express;257.73
+377082209;M;2006-12-21;0;0;172804;Private;Sports Car;yes;0;;Highly Urban/ Urban;2022-04-04 23:29:25;complet;dev_integral;328.3
+811953830;M;1977-07-14;0;2;38362;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-03-31 19:33:46;complet;dev_integral;291.93
+263468984;F;1975-05-18;0;0;73358;Private;Minivan;no;1;22.0;Highly Urban/ Urban;2022-02-28 17:00:49;complet;dev_express;262.53
+624090718;M;1965-06-04;0;0;48834;Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;2022-04-16 11:32:55;complet;dev_premium;413.86
+476279875;F;1977-10-09;0;0;45464;Private;z_SUV;no;4;15.0;Highly Urban/ Urban;2022-02-12 15:16:42;complet;dev_premium;449.75
+260647630;M;1974-04-15;0;0;0;Private;z_SUV;no;0;13.0;z_Highly Rural/ Rural;2022-01-29 14:32:50;complet;dev_express;273.2
+273921420;F;1972-06-27;0;0;16976;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-04-30 23:46:27;complet;dev_express;270.23
+421316364;F;1949-09-26;0;0;95550;Commercial;Van;no;0;18.0;Highly Urban/ Urban;2022-02-25 17:52:57;complet;dev_integral;307.28
+994720648;M;2009-01-14;0;2;34623;Private;Pickup;yes;3;1.0;Highly Urban/ Urban;2022-04-30 20:11:06;complet;dev_express;269.07
+30587067;F;1943-12-19;0;0;87751;Private;Minivan;no;2;17.0;Highly Urban/ Urban;2022-02-25 11:45:18;complet;dev_express;259.39
+725245227;F;1969-09-18;0;0;37076;Private;Minivan;no;1;1.0;z_Highly Rural/ Rural;2022-05-06 12:51:20;complet;dev_integral;333.57
+155093200;F;1965-12-26;2;3;18154;Private;Pickup;yes;2;1.0;Highly Urban/ Urban;2022-03-16 23:26:51;complet;dev_integral;337.47
+616070351;F;1985-11-09;0;0;38944;Private;Minivan;no;0;7.0;Highly Urban/ Urban;2022-04-06 16:10:26;complet;dev_integral;303.78
+283577004;F;1958-02-04;0;0;65659;Private;Minivan;no;5;13.0;Highly Urban/ Urban;2022-03-06 01:34:30;complet;dev_integral;324.92
+341587786;M;1933-05-13;0;0;278656;Private;Minivan;yes;0;16.0;Highly Urban/ Urban;2022-03-04 02:26:03;complet;dev_express;274.66
+711294832;F;1953-11-11;0;0;66587;Private;Sports Car;no;0;10.0;Highly Urban/ Urban;2022-05-06 07:53:57;complet;dev_express;253.7
+259085468;F;2009-11-23;0;3;63367;Private;Pickup;no;3;21.0;Highly Urban/ Urban;2022-02-01 02:51:18;complet;dev_integral;324.12
+693513076;M;1962-01-12;0;2;119273;Commercial;Panel Truck;no;1;23.0;Highly Urban/ Urban;2022-03-16 12:50:15;complet;dev_express;251.99
+358036230;F;1966-09-16;0;0;53567;Commercial;Panel Truck;no;2;8.0;Highly Urban/ Urban;2022-03-13 03:20:49;complet;dev_premium;390.63
+982263237;M;2021-01-19;0;0;75499;Commercial;Pickup;no;0;1.0;Highly Urban/ Urban;2022-04-16 09:07:42;complet;dev_integral;335.07
+142194056;M;1984-06-27;0;0;74417;Commercial;Panel Truck;yes;3;1.0;Highly Urban/ Urban;2022-03-05 10:49:16;complet;dev_express;277.84
+976090829;M;1963-03-06;0;0;128801;Private;Minivan;no;6;17.0;Highly Urban/ Urban;2022-03-19 05:51:30;complet;dev_express;278.36
+489119985;F;1984-10-14;0;1;1729;Commercial;Pickup;no;0;1.0;z_Highly Rural/ Rural;2022-05-01 13:37:36;complet;dev_premium;443.86
+340532523;M;2009-12-22;0;0;31276;Commercial;Sports Car;no;5;9.0;Highly Urban/ Urban;2022-01-19 12:58:27;complet;dev_integral;334.8
+117704348;F;2015-05-11;0;0;25371;Private;Pickup;yes;3;11.0;Highly Urban/ Urban;2022-01-23 02:06:16;complet;dev_integral;283.24
+62527035;F;1965-10-13;0;0;;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-03-15 01:06:57;complet;dev_integral;288.43
+651748745;F;2013-01-04;0;0;47355;Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-01-14 13:28:08;complet;dev_integral;303.24
+84888394;M;1944-05-22;0;0;36330;Private;Sports Car;no;3;1.0;Highly Urban/ Urban;2022-01-22 06:26:30;complet;dev_express;275.75
+59520624;F;1961-09-23;0;0;82503;Private;Sports Car;no;0;15.0;Highly Urban/ Urban;2022-03-03 16:50:06;complet;dev_integral;282.45
+195485302;M;1995-12-04;0;2;;Private;z_SUV;no;1;8.0;z_Highly Rural/ Rural;2022-04-01 06:27:49;complet;dev_integral;310.43
+865694934;M;1955-10-21;0;0;69335;Commercial;Van;yes;2;1.0;Highly Urban/ Urban;2022-04-06 11:25:24;complet;dev_integral;338.52
+62181943;M;1956-05-25;0;0;124829;Commercial;Pickup;no;0;16.0;Highly Urban/ Urban;2022-05-16 07:44:37;complet;dev_express;268.58
+990812546;M;2007-11-24;0;0;51176;Private;z_SUV;no;0;11.0;Highly Urban/ Urban;2022-02-15 05:03:41;complet;dev_express;271.33
+634828055;F;1937-07-16;0;0;14704;Private;z_SUV;no;2;4.0;z_Highly Rural/ Rural;2022-02-16 20:38:03;complet;dev_integral;304.97
+938320087;F;1965-08-24;0;0;57095;Private;z_SUV;yes;7;6.0;Highly Urban/ Urban;2022-03-14 19:17:58;complet;dev_express;269.54
+481160423;F;1942-04-11;0;0;;Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;2022-04-22 23:48:41;complet;dev_integral;318.22
+851522155;M;1983-12-25;0;0;46502;Private;Minivan;no;2;14.0;Highly Urban/ Urban;2022-05-31 09:26:28;complet;dev_integral;326.09
+31728817;F;1981-06-29;0;0;0;Private;z_SUV;no;0;;Highly Urban/ Urban;2022-02-25 10:22:07;complet;dev_integral;302.22
+893196291;F;2003-02-04;0;0;18304;Private;Minivan;yes;0;4.0;Highly Urban/ Urban;2022-03-12 18:17:11;complet;dev_express;257.91
+929148181;M;1973-03-19;0;0;8791;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-05-25 17:39:07;complet;dev_express;251.18
+288118526;F;1975-01-07;0;3;17372;Private;z_SUV;no;3;1.0;Highly Urban/ Urban;2022-02-11 11:55:24;complet;dev_express;270.37
+818483184;M;1964-08-14;1;2;52002;Commercial;Panel Truck;no;0;12.0;Highly Urban/ Urban;2022-02-09 03:38:53;complet;dev_express;253.38
+777877285;F;1965-09-22;0;1;38430;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-04-23 08:07:41;complet;dev_integral;283.64
+272342712;F;1966-02-10;0;0;66955;Private;z_SUV;no;2;10.0;Highly Urban/ Urban;2022-03-06 05:04:22;complet;dev_integral;331.34
+952181357;M;1994-10-27;0;2;40851;Private;z_SUV;no;2;1.0;Highly Urban/ Urban;2022-03-18 00:31:27;complet;dev_express;257.25
+298571479;F;1952-12-01;0;1;37536;Private;Pickup;no;10;1.0;Highly Urban/ Urban;2022-03-29 15:07:39;complet;dev_express;252.38
+253235211;M;2008-05-08;0;0;36451;Commercial;Pickup;yes;0;1.0;z_Highly Rural/ Rural;2022-03-30 05:03:04;complet;dev_express;270.11
+539678669;M;1955-12-24;0;2;146370;Private;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-05-18 15:04:53;complet;dev_express;284.97
+411355078;M;1964-10-23;2;3;62386;Private;Minivan;yes;6;9.0;Highly Urban/ Urban;2022-05-01 13:54:21;complet;dev_integral;282.75
+784157785;M;1939-06-25;0;0;119109;Private;Minivan;yes;0;18.0;z_Highly Rural/ Rural;2022-03-04 08:26:14;complet;dev_express;278.0
+51707702;M;1980-05-29;2;2;114277;Private;Minivan;yes;0;14.0;Highly Urban/ Urban;2022-03-12 22:34:46;complet;dev_premium;531.38
+578066544;M;1967-05-20;0;0;24119;Commercial;Minivan;yes;3;10.0;Highly Urban/ Urban;2022-03-14 18:09:53;complet;dev_express;270.79
+354783439;F;2000-11-20;0;0;57209;Private;Minivan;yes;5;18.0;Highly Urban/ Urban;2022-01-29 04:45:54;complet;dev_premium;367.37
+40601203;F;1950-11-27;0;0;11067;Private;Sports Car;no;3;7.0;z_Highly Rural/ Rural;2022-05-09 20:08:22;complet;dev_premium;540.82
+245429311;F;1976-04-25;0;0;117470;Private;Sports Car;no;0;18.0;Highly Urban/ Urban;2022-01-15 15:51:05;complet;dev_premium;493.54
+374898992;M;2008-12-12;0;0;27450;Private;Minivan;yes;1;1.0;z_Highly Rural/ Rural;2022-05-11 19:20:32;complet;dev_express;272.88
+259738055;M;1966-01-23;0;1;82251;Private;z_SUV;no;0;;Highly Urban/ Urban;2022-05-22 23:11:47;complet;dev_integral;307.23
+580771137;M;1965-12-04;0;2;43196;Private;Sports Car;no;0;15.0;Highly Urban/ Urban;2022-03-16 05:57:35;complet;dev_premium;544.38
+185797662;F;1943-02-09;0;0;107562;Private;z_SUV;no;4;15.0;Highly Urban/ Urban;2022-02-10 06:27:51;complet;dev_express;275.59
+94006069;F;1982-05-22;0;3;0;Private;z_SUV;no;4;6.0;Highly Urban/ Urban;2022-05-30 19:20:04;complet;dev_express;256.94
+635166021;M;2019-12-16;0;0;0;Commercial;z_SUV;no;1;11.0;Highly Urban/ Urban;2022-01-10 18:50:38;complet;dev_integral;306.95
+387957280;M;1996-03-17;1;2;23035;Private;z_SUV;no;2;6.0;Highly Urban/ Urban;2022-05-21 14:48:55;complet;dev_integral;297.22
+259907079;M;1989-04-08;0;0;138368;Private;Van;yes;4;1.0;Highly Urban/ Urban;2022-04-09 07:59:37;complet;dev_express;267.27
+444658348;F;1962-03-08;0;1;54480;Commercial;Pickup;yes;5;11.0;Highly Urban/ Urban;2022-02-13 15:50:05;complet;dev_vip;828.68
+856378045;M;1978-05-15;0;0;11322;Private;z_SUV;no;7;6.0;z_Highly Rural/ Rural;2022-02-25 01:50:07;complet;dev_integral;281.86
+870183904;F;1952-03-15;3;3;75288;Private;Minivan;no;6;12.0;Highly Urban/ Urban;2022-01-02 16:50:27;complet;dev_integral;321.45
+166887755;M;1966-12-22;0;2;71487;Private;Sports Car;no;0;;Highly Urban/ Urban;2022-04-02 01:41:56;complet;dev_express;283.51
+371660994;M;1973-01-13;0;1;;Private;Pickup;no;2;1.0;z_Highly Rural/ Rural;2022-05-03 20:04:34;complet;dev_premium;427.77
+232648329;M;1968-04-22;0;0;;Private;Van;no;1;14.0;Highly Urban/ Urban;2022-04-25 17:47:22;complet;dev_express;276.58
+564472252;F;1982-04-23;0;0;0;Private;Pickup;yes;4;16.0;z_Highly Rural/ Rural;2022-03-08 01:20:47;complet;dev_integral;321.24
+918957801;F;1995-01-31;0;2;39793;Commercial;Minivan;yes;6;;Highly Urban/ Urban;2022-05-31 07:38:15;complet;dev_integral;332.89
+131474282;M;1980-01-01;0;1;;Commercial;Pickup;yes;0;8.0;z_Highly Rural/ Rural;2022-01-21 17:55:18;complet;dev_integral;291.58
+486828685;M;1950-05-21;0;0;17671;Private;z_SUV;no;1;1.0;Highly Urban/ Urban;2022-04-27 00:55:01;complet;dev_integral;315.24
+23309553;F;1992-04-17;0;1;26096;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-04-25 21:28:55;complet;dev_integral;291.28
+441643202;M;1939-06-28;0;1;131383;Private;z_SUV;no;0;15.0;Highly Urban/ Urban;2022-03-05 04:31:04;complet;dev_integral;281.15
+120982530;F;2021-03-16;0;0;0;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;2022-01-21 20:31:42;complet;dev_integral;298.22
+316144501;M;1994-08-25;0;0;74659;Commercial;Panel Truck;no;4;15.0;Highly Urban/ Urban;2022-04-25 02:27:33;complet;dev_integral;307.11
+791767428;M;1943-11-23;0;0;13684;Private;Minivan;no;1;14.0;Highly Urban/ Urban;2022-03-29 10:10:36;complet;dev_integral;288.21
+113404562;M;1978-06-21;0;0;0;Commercial;Sports Car;no;6;10.0;Highly Urban/ Urban;2022-02-13 12:49:30;complet;dev_integral;291.09
+358544143;M;1987-12-18;0;0;17631;Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;2022-02-11 19:49:11;complet;dev_express;262.39
+371807120;F;1986-01-09;0;0;0;Commercial;Panel Truck;yes;0;9.0;z_Highly Rural/ Rural;2022-05-28 14:51:30;complet;dev_integral;284.65
+119909309;M;1968-01-25;0;0;50134;Private;Minivan;no;4;8.0;Highly Urban/ Urban;2022-04-03 10:24:17;complet;dev_integral;326.26
+624278100;F;1989-09-12;0;0;22683;Private;z_SUV;no;3;9.0;z_Highly Rural/ Rural;2022-05-20 00:54:31;complet;dev_integral;320.46
+240049188;M;1952-12-06;0;0;93283;Private;Minivan;yes;0;6.0;Highly Urban/ Urban;2022-04-22 07:51:36;complet;dev_express;252.55
+884566879;M;1934-11-10;0;0;53122;Commercial;z_SUV;no;0;8.0;Highly Urban/ Urban;2022-01-29 23:53:38;complet;dev_integral;334.04
+253050441;M;2001-08-29;0;3;16193;Private;Minivan;yes;3;1.0;Highly Urban/ Urban;2022-05-21 16:52:50;complet;dev_integral;300.34
+463876700;M;1998-10-08;0;0;;Commercial;Minivan;no;0;8.0;Highly Urban/ Urban;2022-05-04 21:53:46;complet;dev_integral;323.03
+411815926;F;1954-11-15;0;0;30799;Private;Minivan;yes;4;12.0;Highly Urban/ Urban;2022-01-25 02:36:48;complet;dev_premium;473.62
+193426980;M;1950-04-21;0;0;67003;Commercial;Panel Truck;no;0;1.0;Highly Urban/ Urban;2022-01-27 10:59:23;complet;dev_integral;327.5
+79969831;M;1932-09-15;0;0;81427;Private;Pickup;no;2;17.0;Highly Urban/ Urban;2022-03-11 17:06:32;complet;dev_integral;318.21
+867204089;F;1958-06-13;0;3;61852;Commercial;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-05-25 04:29:27;complet;dev_integral;316.18
+581341389;F;1946-05-05;0;1;65048;Commercial;Minivan;no;1;5.0;Highly Urban/ Urban;2022-01-20 13:19:15;complet;dev_premium;512.18
+813047682;F;2008-07-16;0;0;54067;Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-04-22 03:55:30;complet;dev_integral;329.14
+136051346;F;1953-02-10;0;0;64286;Commercial;Panel Truck;no;7;15.0;Highly Urban/ Urban;2022-02-10 11:43:26;complet;dev_integral;284.39
+488543208;M;1970-11-16;0;0;192843;Commercial;Panel Truck;no;4;15.0;Highly Urban/ Urban;2022-02-24 22:38:10;complet;dev_express;268.69
+799470114;F;1952-11-11;0;0;47667;Private;Sports Car;no;2;12.0;Highly Urban/ Urban;2022-03-17 13:01:02;complet;dev_express;275.2
+979856160;F;2002-04-09;2;0;133493;Private;z_SUV;no;4;;Highly Urban/ Urban;2022-03-04 23:01:12;complet;dev_express;254.89
+912419873;M;1983-11-17;0;0;19905;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;2022-04-20 21:31:48;complet;dev_express;254.92
+553736065;F;1961-06-26;0;0;61352;Private;Van;no;4;12.0;Highly Urban/ Urban;2022-01-30 10:23:48;complet;dev_express;274.35
+643840649;M;1967-10-26;0;0;22796;Private;Minivan;yes;3;17.0;Highly Urban/ Urban;2022-02-11 03:05:15;complet;dev_integral;288.86
+125449255;F;1953-11-13;0;1;59379;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;2022-03-05 22:31:37;complet;dev_integral;287.04
+917757827;F;1945-08-10;0;0;29567;Commercial;Van;no;7;1.0;Highly Urban/ Urban;2022-02-16 21:11:30;complet;dev_express;269.57
+366929625;F;2014-12-18;0;0;131889;Private;Van;yes;0;12.0;Highly Urban/ Urban;2022-01-25 22:15:40;complet;dev_integral;332.22
+662721687;F;1974-08-30;2;3;123358;Commercial;Pickup;yes;0;1.0;z_Highly Rural/ Rural;2022-03-06 06:46:49;complet;dev_express;266.0
+202542739;F;1978-02-10;1;2;45678;Commercial;Van;no;0;1.0;Highly Urban/ Urban;2022-04-15 19:54:12;complet;dev_express;268.23
+849526552;M;1974-12-23;1;1;100957;Commercial;Van;yes;0;11.0;z_Highly Rural/ Rural;2022-03-24 05:03:13;complet;dev_integral;300.69
+993778721;F;1987-01-25;0;0;151637;Commercial;Panel Truck;yes;3;19.0;Highly Urban/ Urban;2022-02-06 04:58:24;complet;dev_integral;318.82
+973990002;F;1956-09-12;0;0;55760;Commercial;Pickup;no;1;12.0;Highly Urban/ Urban;2022-03-27 09:03:38;complet;dev_integral;322.82
+542481113;F;1951-09-25;1;2;26770;Private;Van;no;0;;Highly Urban/ Urban;2022-02-28 04:43:34;complet;dev_express;255.02
+407080648;F;1976-01-23;1;2;31924;Private;Pickup;yes;0;7.0;Highly Urban/ Urban;2022-02-17 12:07:25;complet;dev_express;264.41
+349773525;F;1967-06-10;0;0;58225;Private;z_SUV;no;3;8.0;Highly Urban/ Urban;2022-03-21 04:50:26;complet;dev_integral;308.53
+58554153;F;1970-11-11;0;0;31616;Commercial;Panel Truck;yes;0;1.0;Highly Urban/ Urban;2022-04-29 13:22:49;complet;dev_express;268.28
+13509551;M;2002-10-16;0;0;66960;Private;Minivan;yes;5;10.0;Highly Urban/ Urban;2022-04-21 12:08:35;complet;dev_express;259.87
+746249238;F;1998-01-15;0;0;129230;Commercial;Panel Truck;yes;2;1.0;Highly Urban/ Urban;2022-01-19 11:20:35;complet;dev_integral;303.47
+837902783;M;1950-06-05;0;2;120355;Private;Minivan;no;0;15.0;Highly Urban/ Urban;2022-03-09 20:30:13;complet;dev_integral;333.73
+147215888;M;1986-09-15;0;0;83639;Private;Sports Car;no;3;17.0;Highly Urban/ Urban;2022-03-01 14:18:36;complet;dev_express;259.31
+618040112;M;2006-03-01;0;0;57750;Private;z_SUV;no;0;18.0;Highly Urban/ Urban;2022-02-25 19:38:23;complet;dev_express;284.29
+591312483;F;2005-07-15;0;2;94958;Commercial;Minivan;yes;0;1.0;Highly Urban/ Urban;2022-04-06 01:42:35;complet;dev_integral;318.58
+573840556;F;1953-08-17;2;2;15726;Private;Sports Car;no;4;4.0;Highly Urban/ Urban;2022-04-04 10:25:28;complet;dev_express;277.58
+809228729;F;1986-09-22;1;3;48077;Private;Minivan;no;5;1.0;Highly Urban/ Urban;2022-02-04 21:07:36;complet;dev_express;263.24
+219754330;M;1942-11-07;0;0;;Commercial;Van;yes;2;8.0;Highly Urban/ Urban;2022-01-06 03:31:20;complet;dev_express;251.49
+99001090;F;2003-05-03;0;0;47763;Private;z_SUV;no;0;14.0;Highly Urban/ Urban;2022-03-15 18:00:50;complet;dev_integral;307.83
+762523260;M;1970-05-06;0;1;89640;Commercial;Van;yes;3;1.0;Highly Urban/ Urban;2022-01-23 03:10:34;complet;dev_express;268.95
+590669743;M;1957-09-29;0;0;29819;Private;Pickup;yes;0;1.0;Highly Urban/ Urban;2022-02-18 02:05:10;complet;dev_integral;312.0
+857718623;F;1965-05-08;0;2;23452;Private;Sports Car;yes;8;6.0;Highly Urban/ Urban;2022-02-09 05:52:47;complet;dev_integral;284.16
+234885740;F;1978-04-03;0;2;60107;Commercial;Pickup;no;0;6.0;z_Highly Rural/ Rural;2022-04-07 03:39:34;complet;dev_integral;330.18
+73552947;F;1981-06-06;0;0;81446;Commercial;Panel Truck;yes;0;16.0;z_Highly Rural/ Rural;2022-04-03 15:51:47;complet;dev_integral;325.9
+2723173;F;2017-05-10;2;3;0;Commercial;Pickup;no;0;19.0;Highly Urban/ Urban;2022-03-01 20:07:46;complet;dev_integral;322.04
+853266389;F;1969-05-02;1;2;88236;Private;Minivan;no;5;13.0;Highly Urban/ Urban;2022-03-31 06:34:03;complet;dev_premium;320.67
+360133721;F;1977-07-13;0;3;9157;Private;Minivan;no;4;8.0;Highly Urban/ Urban;2022-01-24 07:06:56;complet;dev_express;257.28
+197703607;F;1965-05-23;0;0;112226;Commercial;Panel Truck;yes;1;;z_Highly Rural/ Rural;2022-02-24 16:14:00;complet;dev_integral;284.26
+908411110;M;2020-05-13;0;0;107333;Commercial;Minivan;no;4;12.0;Highly Urban/ Urban;2022-01-26 07:50:02;complet;dev_express;264.28
+5489257;M;1947-06-18;2;2;;Commercial;z_SUV;no;3;9.0;Highly Urban/ Urban;2022-02-07 09:30:27;complet;dev_express;270.67
+142190270;M;1984-10-17;0;3;164047;Private;Van;no;0;13.0;Highly Urban/ Urban;2022-03-11 02:37:46;complet;dev_vip;931.18
+509887154;F;1953-10-07;0;0;30963;Private;Minivan;yes;2;9.0;z_Highly Rural/ Rural;2022-03-08 10:38:53;complet;dev_integral;328.13
+484833042;M;1985-09-21;0;0;123807;Private;Minivan;yes;1;8.0;Highly Urban/ Urban;2022-04-15 09:55:31;complet;dev_express;269.67
+255890039;F;1966-12-25;0;0;82813;Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;2022-05-29 18:16:36;complet;dev_integral;304.48
+401442272;M;2009-03-04;0;0;105111;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-04-16 13:39:53;complet;dev_express;269.97
+37014855;M;2017-02-21;3;3;115100;Commercial;Panel Truck;no;9;16.0;Highly Urban/ Urban;2022-01-22 05:58:28;complet;dev_express;261.36
+341780638;M;2015-05-28;0;0;73903;Commercial;Panel Truck;yes;0;12.0;Highly Urban/ Urban;2022-03-27 20:38:49;complet;dev_premium;342.91
+700043765;M;2018-09-19;0;2;46846;Private;z_SUV;no;0;10.0;Highly Urban/ Urban;2022-01-04 05:01:38;complet;dev_integral;298.67
+261603289;F;1960-08-03;0;0;85267;Commercial;Van;no;8;8.0;Highly Urban/ Urban;2022-02-13 15:16:22;complet;dev_integral;328.59
+202001712;M;1986-10-09;0;1;136758;Private;z_SUV;no;5;14.0;Highly Urban/ Urban;2022-03-19 20:36:55;complet;dev_premium;341.41
+411096665;M;1961-01-02;0;0;19341;Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;2022-03-23 12:55:56;complet;dev_integral;317.96
+471957412;M;1991-03-22;0;0;59196;Private;Sports Car;no;0;21.0;Highly Urban/ Urban;2022-02-24 13:26:06;complet;dev_express;278.24
+892542306;M;1951-03-10;0;0;1249;Private;Sports Car;no;1;1.0;Highly Urban/ Urban;2022-05-30 19:44:58;complet;dev_integral;338.91
+489736792;M;1958-03-30;0;0;27839;Private;Van;yes;3;4.0;Highly Urban/ Urban;2022-03-02 11:38:55;complet;dev_express;268.05
+883295992;F;1958-10-08;0;0;46393;Private;Minivan;no;0;16.0;Highly Urban/ Urban;2022-05-20 22:56:51;complet;dev_integral;323.67
+498831834;F;1977-08-27;0;0;55037;Private;Pickup;yes;0;10.0;Highly Urban/ Urban;2022-04-29 03:01:32;complet;dev_integral;336.83
+2718167;M;2007-08-30;0;2;39322;Private;Pickup;yes;1;7.0;Highly Urban/ Urban;2022-01-25 05:05:53;complet;dev_express;255.0
+677948838;F;1983-10-28;0;0;45300;Commercial;Pickup;yes;1;1.0;Highly Urban/ Urban;2022-03-03 19:35:39;complet;dev_integral;313.6
+169685431;M;1943-04-20;0;0;52718;Private;Minivan;yes;0;9.0;Highly Urban/ Urban;2022-02-16 23:56:09;complet;dev_express;283.44
+23899383;F;1993-06-29;0;0;96111;Private;Minivan;yes;1;12.0;Highly Urban/ Urban;2022-04-08 12:32:57;complet;dev_integral;328.75
+20180493;M;2003-06-30;0;0;91116;Private;Sports Car;no;0;9.0;Highly Urban/ Urban;2022-05-24 09:52:40;complet;dev_integral;335.74
+510903092;F;1966-04-23;0;0;102244;Commercial;Panel Truck;yes;1;15.0;Highly Urban/ Urban;2022-03-02 00:49:09;complet;dev_integral;302.02
+28977784;F;1944-03-25;0;0;109953;Commercial;Panel Truck;yes;1;12.0;Highly Urban/ Urban;2022-02-09 22:53:35;complet;dev_premium;355.52
+965745421;M;2005-05-02;1;3;28196;Commercial;Minivan;no;2;4.0;Highly Urban/ Urban;2022-01-24 05:37:31;complet;dev_integral;332.23
+197773530;F;2019-07-26;0;2;60286;Commercial;Pickup;no;0;11.0;z_Highly Rural/ Rural;2022-03-20 04:45:11;complet;dev_express;255.53
+417623543;M;2015-04-27;0;0;61283;Private;Pickup;yes;1;12.0;Highly Urban/ Urban;2022-03-16 09:04:06;complet;dev_integral;310.59
+905977387;M;2006-06-29;0;0;0;Commercial;Minivan;yes;0;11.0;z_Highly Rural/ Rural;2022-03-15 13:46:20;complet;dev_express;267.62
+714870833;F;2015-03-30;0;0;61598;Private;z_SUV;no;0;8.0;z_Highly Rural/ Rural;2022-05-24 16:03:51;complet;dev_integral;301.27
+48210951;M;2014-04-19;0;0;115656;Private;z_SUV;no;4;7.0;Highly Urban/ Urban;2022-03-26 03:48:14;complet;dev_integral;325.75
+887185796;F;2015-11-24;0;0;74578;Private;z_SUV;no;5;4.0;Highly Urban/ Urban;2022-05-28 19:05:33;complet;dev_integral;319.13
+472441773;F;1952-03-24;0;0;160878;Private;z_SUV;no;1;12.0;Highly Urban/ Urban;2022-04-19 21:51:10;complet;dev_integral;300.19
+838773580;F;1989-04-09;0;0;21023;Private;Minivan;no;0;1.0;Highly Urban/ Urban;2022-04-04 05:24:47;complet;dev_express;279.12
+362936198;F;1980-04-20;0;2;71763;Private;Minivan;yes;3;8.0;Highly Urban/ Urban;2022-01-25 05:14:34;complet;dev_express;273.56
+964117167;F;1936-01-08;0;0;28380;Private;z_SUV;no;1;10.0;z_Highly Rural/ Rural;2022-02-25 17:41:10;complet;dev_integral;332.38
+880164797;M;1993-12-24;0;1;52149;Private;z_SUV;no;0;7.0;Highly Urban/ Urban;2022-03-07 18:50:04;complet;dev_integral;291.76
+46204215;F;1934-07-15;0;1;28162;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;2022-05-11 19:57:03;complet;dev_integral;304.82
+424197869;F;1959-07-14;0;0;31543;Private;z_SUV;no;3;;Highly Urban/ Urban;2022-05-25 05:18:35;complet;dev_express;270.99
+728201536;F;2009-11-29;0;0;20148;Private;Sports Car;no;10;2.0;Highly Urban/ Urban;2022-02-07 06:33:53;complet;dev_integral;306.89
+74505292;F;1974-07-02;0;0;34637;Private;z_SUV;no;0;10.0;Highly Urban/ Urban;2022-03-02 22:19:18;complet;dev_express;261.76
+445009433;M;2020-08-10;0;0;28592;Private;Pickup;no;3;1.0;Highly Urban/ Urban;2022-04-29 09:55:18;complet;dev_integral;328.89
+625727963;M;1953-08-30;1;2;0;Private;Sports Car;no;0;12.0;z_Highly Rural/ Rural;2022-02-27 08:10:14;complet;dev_integral;293.34
+57020222;F;1952-03-14;0;0;24217;Commercial;Pickup;yes;2;7.0;z_Highly Rural/ Rural;2022-02-10 16:53:24;complet;dev_express;272.55
+481907109;F;1957-01-14;0;0;113781;Private;Pickup;yes;4;22.0;Highly Urban/ Urban;2022-05-07 12:19:08;complet;dev_integral;327.5
+520911084;F;1941-07-04;2;3;83894;Commercial;Panel Truck;no;0;;z_Highly Rural/ Rural;2022-05-19 09:28:12;complet;dev_integral;297.55
+283591503;M;1954-08-03;0;1;0;Private;Sports Car;no;2;7.0;Highly Urban/ Urban;2022-03-24 21:00:52;complet;dev_express;268.53
+32461891;M;1973-06-07;0;0;76096;Private;Minivan;yes;3;21.0;Highly Urban/ Urban;2022-01-18 09:50:49;complet;dev_express;266.87
+547238903;M;1946-09-27;0;2;60755;Private;z_SUV;no;7;1.0;Highly Urban/ Urban;2022-03-14 09:34:04;complet;dev_integral;294.29
+522803483;F;1942-05-29;0;0;35024;Private;z_SUV;no;0;6.0;z_Highly Rural/ Rural;2022-01-25 07:45:23;complet;dev_express;278.53
+915868535;F;2015-09-19;0;0;52108;Private;Minivan;yes;0;7.0;Highly Urban/ Urban;2022-05-02 07:04:29;complet;dev_premium;504.9
+688077546;M;1953-10-22;0;0;75777;Commercial;Minivan;no;7;10.0;Highly Urban/ Urban;2022-04-08 04:34:47;complet;dev_express;261.57
+929031390;M;1962-03-05;1;1;23048;Commercial;Pickup;no;3;9.0;Highly Urban/ Urban;2022-05-17 12:05:13;complet;dev_express;258.82
+360967829;M;1957-11-16;0;0;112264;Commercial;Panel Truck;yes;5;20.0;Highly Urban/ Urban;2022-02-20 04:37:28;complet;dev_integral;333.27
+274478453;M;1940-05-16;0;0;24840;Private;z_SUV;no;1;8.0;z_Highly Rural/ Rural;2022-01-03 02:02:36;complet;dev_integral;334.4
+254781726;F;1960-09-03;0;0;126829;Private;Minivan;yes;2;20.0;Highly Urban/ Urban;2022-05-27 05:18:16;complet;dev_express;262.45
+446338957;M;2012-10-29;0;0;43501;Private;Minivan;no;2;1.0;z_Highly Rural/ Rural;2022-05-22 15:08:35;complet;dev_express;283.55
+573568276;F;1961-02-08;0;0;62060;Private;Minivan;no;3;1.0;Highly Urban/ Urban;2022-01-23 01:08:13;complet;dev_integral;324.67
+788620578;F;1951-08-28;0;0;81818;Commercial;Van;no;6;4.0;Highly Urban/ Urban;2022-01-19 20:37:05;complet;dev_premium;470.99
+813128;M;1934-02-15;1;0;45018;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;2022-05-08 18:08:55;complet;dev_integral;313.89
